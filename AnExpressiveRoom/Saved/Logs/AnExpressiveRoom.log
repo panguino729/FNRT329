@@ -7345,3 +7345,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.14-02.00.37:819][343]Cmd: MAP CHECK NOTIFYRESULTS
 [2021.02.14-02.00.37:819][343]MapCheck: New page: AnExpressiveRoom - Feb 13, 2021, 4:00:37 PM
 [2021.02.14-02.00.37:822][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.491ms to complete.
+[2021.02.14-02.01.42:179][848]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.14-02.01.44:766][138]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.14-02.01.44:777][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.14-02.01.44:777][138]PIE: New page: PIE session: AnExpressiveRoom (Feb 13, 2021, 4:01:44 PM)
+[2021.02.14-02.01.44:806][138]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AnExpressiveRoom
+[2021.02.14-02.01.44:816][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010718s)
+[2021.02.14-02.01.44:817][138]LogAIModule: Creating AISystem for world AnExpressiveRoom
+[2021.02.14-02.01.44:818][138]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002078E6E7800), frame # 788138
+[2021.02.14-02.01.44:818][138]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207B6AFB380), frame # 788138
+[2021.02.14-02.01.44:818][138]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2021.02.14-02.01.44:818][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnExpressiveRoom.AnExpressiveRoom to /Game/UEDPIE_0_AnExpressiveRoom.AnExpressiveRoom (0.012394s)
+[2021.02.14-02.01.44:835][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-02.01.44:844][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-02.01.44:844][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-02.01.44:845][138]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-02.01.44:845][138]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-02.01.44:849][138]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-02.01.44:849][138]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-02.01.44:865][138]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.14-02.01.44:865][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-02.01.44:865][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-02.01.44:865][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-02.01.44:865][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-02.01.44:875][138]LogInit: FAudioDevice initialized.
+[2021.02.14-02.01.44:884][138]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.14-02.01.44:886][138]LogWorld: Bringing World /Game/UEDPIE_0_AnExpressiveRoom.AnExpressiveRoom up for play (max tick rate 0) at 2021.02.13-21.01.44
+[2021.02.14-02.01.44:886][138]LogWorld: Bringing up level for play took: 0.001625
+[2021.02.14-02.01.44:886][138]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.02.14-02.01.44:888][138]PIE: Server logged in
+[2021.02.14-02.01.44:888][138]PIE: Play in editor total start time 0.112 seconds.
+[2021.02.14-02.01.49:096][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-02.01.49:096][634]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AnExpressiveRoom
+[2021.02.14-02.01.49:097][634]LogWorld: UWorld::CleanupWorld for AnExpressiveRoom, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-02.01.49:097][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-02.01.49:102][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.14-02.01.49:105][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-02.01.49:119][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-02.01.49:131][634]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000207B6AFB380), frame # 788634
+[2021.02.14-02.01.49:131][634]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002078E6E7800), frame # 788634
+[2021.02.14-02.01.49:133][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.02.14-02.01.49:162][635]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.02.14-02.01.52:800][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarbaraCeilingLight3)
+[2021.02.14-02.01.55:575][362]Cmd: EDIT COPY
+[2021.02.14-02.01.55:762][383]Cmd: EDIT PASTE
+[2021.02.14-02.01.59:238][793]Cmd: EDIT PASTE
+[2021.02.14-02.02.02:506][177]Cmd: EDIT PASTE
+[2021.02.14-02.02.26:447][972]Cmd: TRANSACTION UNDO
+[2021.02.14-02.02.26:447][972]LogEditorTransaction: Undo Set Rotation
+[2021.02.14-02.02.26:772][981]Cmd: TRANSACTION UNDO
+[2021.02.14-02.02.26:772][981]LogEditorTransaction: Undo Set Rotation
+[2021.02.14-02.02.27:005][990]Cmd: TRANSACTION UNDO
+[2021.02.14-02.02.27:005][990]LogEditorTransaction: Undo Move Actors
+[2021.02.14-02.02.27:246][ 13]Cmd: TRANSACTION UNDO
+[2021.02.14-02.02.27:246][ 13]LogEditorTransaction: Undo Paste
+[2021.02.14-02.02.27:512][ 40]Cmd: TRANSACTION UNDO
+[2021.02.14-02.02.27:512][ 40]LogEditorTransaction: Undo Move Actors
+[2021.02.14-02.02.27:852][ 77]Cmd: TRANSACTION UNDO
+[2021.02.14-02.02.27:852][ 77]LogEditorTransaction: Undo Paste
+[2021.02.14-02.02.29:941][323]Cmd: DELETE
+[2021.02.14-02.02.29:941][323]Cmd: ACTOR DELETE
+[2021.02.14-02.02.29:943][323]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.02.14-02.02.29:959][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.02.14-02.02.29:965][323]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.02.14-02.02.31:663][519]Cmd: DELETE
+[2021.02.14-02.02.31:663][519]Cmd: ACTOR DELETE
+[2021.02.14-02.02.31:665][519]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.02.14-02.02.31:678][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.02.14-02.02.31:680][519]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.02.14-02.03.28:567][148]MapCheck: New page: Map Check
+[2021.02.14-02.03.28:580][148]LightingResults: New page: Lighting Build - Feb 13, 2021, 4:03:28 PM
+[2021.02.14-02.03.28:608][148]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.14-02.03.28:609][148]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.14-02.03.28:609][148]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.14-02.03.28:609][148]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.14-02.03.28:609][148]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1564
+[2021.02.14-02.03.28:682][148]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.14-02.03.28:682][148]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.14-02.03.28:682][148]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.14-02.03.28:682][148]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.14-02.03.28:682][148]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.14-02.03.28:754][148]LogEditorBuildUtils: Build time 0:00
+[2021.02.14-02.03.28:822][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.02.14-02.03.56:325][356]Job is a success!
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:          1: 6.7% covering 3.1% of volume
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:          2: 90.0% covering 0.7% of volume
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.14-02.03.56:785][357]LogVolumetricLightmapImport:          AnExpressiveRoom 			 30 bricks 	 100.0% (Persistent Level)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2021.02.14-02.03.58:791][357]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2021.02.14-02.03.58:992][357]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 32X32)
+[2021.02.14-02.03.58:992][357]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (BGRA8, 1024X512)
+[2021.02.14-02.03.59:159][357]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:159][357]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 1024X1024)
+[2021.02.14-02.03.59:160][357]LogStaticLightingSystem: AnExpressiveRoom_BuiltData storing lightmap data for 36 meshes in 10 LightmapResourceClusters (3.6 Meshes per cluster).
+[2021.02.14-02.03.59:186][357]Lightmass on IGM2000-31: 29.9 sec total, 156 ms importing, 27 ms setup, 5.91 sec photons, 23.8 sec processing, 0 ms extra exporting [36/36 mappings]. Threads: 4:22 min total, 2:16 min processing.
+[2021.02.14-02.03.59:187][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.14-02.03.59:206][357]LogStaticLightingSystem: Illumination: 30.3 sec (1.57 sec encoding lightmaps, 364 ms encoding shadowmaps)
+[2021.02.14-02.03.59:206][357]LogStaticLightingSystem: Lightmap texture memory:  45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.02.14-02.03.59:206][357]LogStaticLightingSystem: Shadowmap texture memory: 45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.02.14-02.03.59:711][357]DumpUnbuiltLightIteractions
+[2021.02.14-02.03.59:711][357]Lights with unbuilt interactions: 0
+[2021.02.14-02.03.59:711][357]
+[2021.02.14-02.03.59:711][357]Primitives with unbuilt interactions: 0
+[2021.02.14-02.03.59:772][358]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.14-02.03.59:772][358]MapCheck: New page: AnExpressiveRoom - Feb 13, 2021, 4:03:59 PM
+[2021.02.14-02.03.59:775][358]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.49ms to complete.
