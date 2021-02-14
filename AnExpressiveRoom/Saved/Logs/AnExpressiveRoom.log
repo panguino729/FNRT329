@@ -6048,3 +6048,658 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.14-01.36.26:146][348]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
 [2021.02.14-01.36.26:305][348]LogSwarmInterface: [OpenConnection] Connecting to agent ...
 [2021.02.14-01.36.26:319][348]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.14-01.36.27:360][348]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.14-01.36.27:360][348]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1564
+[2021.02.14-01.36.27:844][348]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.14-01.36.27:845][348]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.14-01.36.27:845][348]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.14-01.36.27:845][348]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.14-01.36.27:845][348]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.14-01.36.28:098][348]LogEditorBuildUtils: Build time 0:02
+[2021.02.14-01.36.28:103][348]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.02.14-01.36.28:105][348]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.02.14-01.36.28:109][348]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WhiteMatte_Mat, compiling. 
+[2021.02.14-01.36.28:111][348]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.14-01.36.28:111][348]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.14-01.36.28:111][348]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.14-01.36.28:111][348]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.14-01.36.28:111][348]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WhiteMatte_Mat, compiling. 
+[2021.02.14-01.36.28:146][349]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.02.14-01.36.28:146][349]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.14-01.36.28:146][349]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.02.14-01.36.28:146][349]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.02.14-01.36.28:148][349]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_WoodPlanksFloor_a_mat, compiling. 
+[2021.02.14-01.36.28:151][349]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_WoodPlanksFloor_a_mat, compiling. 
+[2021.02.14-01.36.28:154][349]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VeneerWood_a_Mat, compiling. 
+[2021.02.14-01.36.28:157][349]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VeneerWood_a_Mat, compiling. 
+[2021.02.14-01.36.28:198][350]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_Plastic_Cream_a_Mat, compiling. 
+[2021.02.14-01.36.28:201][350]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_Plastic_Cream_a_Mat, compiling. 
+[2021.02.14-01.36.28:204][350]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_MetalBasic_a_mat, compiling. 
+[2021.02.14-01.36.28:206][350]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_MetalBasic_a_mat, compiling. 
+[2021.02.14-01.36.28:248][351]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Linen_a_Mat, compiling. 
+[2021.02.14-01.36.28:251][351]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Linen_a_Mat, compiling. 
+[2021.02.14-01.36.28:254][351]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Linen_a_Mat, compiling. 
+[2021.02.14-01.36.28:257][351]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Linen_a_Mat, compiling. 
+[2021.02.14-01.36.28:304][352]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SamRoomBed_b_Mat, compiling. 
+[2021.02.14-01.36.28:308][352]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SamRoomBed_b_Mat, compiling. 
+[2021.02.14-01.36.28:312][352]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_Blue, compiling. 
+[2021.02.14-01.36.28:316][352]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_Blue, compiling. 
+[2021.02.14-01.36.28:371][353]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_LacqueredBrownWood_a_Mat, compiling. 
+[2021.02.14-01.36.28:376][353]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_LacqueredBrownWood_a_Mat, compiling. 
+[2021.02.14-01.36.28:380][353]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_MetalBasicLight_a_mat, compiling. 
+[2021.02.14-01.36.28:384][353]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_MetalBasicLight_a_mat, compiling. 
+[2021.02.14-01.36.28:444][354]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VeneerWood_a_Mat, compiling. 
+[2021.02.14-01.36.28:448][354]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer VeneerWood_a_Mat, compiling. 
+[2021.02.14-01.36.28:452][354]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WritingDeskKnob_a_Mat, compiling. 
+[2021.02.14-01.36.28:455][354]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WritingDeskKnob_a_Mat, compiling. 
+[2021.02.14-01.36.28:509][355]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GarageDoorPlastic_a_Mat, compiling. 
+[2021.02.14-01.36.28:513][355]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GarageDoorPlastic_a_Mat, compiling. 
+[2021.02.14-01.36.28:517][355]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CleanMetal_MasterMat, compiling. 
+[2021.02.14-01.36.28:521][355]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CleanMetal_MasterMat, compiling. 
+[2021.02.14-01.36.28:576][356]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WallMountedTv_a_Mat, compiling. 
+[2021.02.14-01.36.28:580][356]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WallMountedTv_a_Mat, compiling. 
+[2021.02.14-01.36.28:585][356]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BlackGloss_Mat, compiling. 
+[2021.02.14-01.36.28:589][356]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BlackGloss_Mat, compiling. 
+[2021.02.14-01.36.28:633][356]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 64
+[2021.02.14-01.36.28:635][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2021.02.14-01.36.28:635][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2021.02.14-01.36.28:639][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2021.02.14-01.36.28:642][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2021.02.14-01.36.28:645][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Door_a_Mat, compiling. 
+[2021.02.14-01.36.28:648][357]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Door_a_Mat, compiling. 
+[2021.02.14-01.36.28:665][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_ShelfWood_a_mat, compiling. 
+[2021.02.14-01.36.28:668][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2021.02.14-01.36.28:668][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_ShelfWood_a_mat, compiling. 
+[2021.02.14-01.36.28:671][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_MetalBasic_a_mat, compiling. 
+[2021.02.14-01.36.28:674][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_MetalBasic_a_mat, compiling. 
+[2021.02.14-01.36.28:714][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2021.02.14-01.36.28:714][358]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2021.02.14-01.36.28:714][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.02.14-01.36.28:719][359]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2021.02.14-01.36.28:722][359]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2021.02.14-01.36.28:722][359]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2021.02.14-01.36.28:730][359]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.02.14-01.36.28:735][359]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.14-01.36.32:931][360]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.02.14-01.36.33:445][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.02.14-01.37.04:772][636]Job is a success!
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:          1: 6.7% covering 3.1% of volume
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:          2: 90.0% covering 0.7% of volume
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.14-01.37.05:270][637]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 30 bricks 	 100.0% (Persistent Level)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2021.02.14-01.37.07:307][637]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2021.02.14-01.37.07:507][637]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2021.02.14-01.37.07:507][637]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X512)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:693][637]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2021.02.14-01.37.07:694][637]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 30 meshes in 10 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.02.14-01.37.07:711][637]Lightmass on IGM2000-31: 33.3 sec total, 167 ms importing, 24 ms setup, 6.44 sec photons, 26.3 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 4:49 min total, 2:28 min processing.
+[2021.02.14-01.37.07:717][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.02.14-01.37.07:745][637]LogStaticLightingSystem: Illumination: 41.4 sec (1.63 sec encoding lightmaps, 362 ms encoding shadowmaps)
+[2021.02.14-01.37.07:745][637]LogStaticLightingSystem: Lightmap texture memory:  45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.02.14-01.37.07:745][637]LogStaticLightingSystem: Shadowmap texture memory: 45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.02.14-01.37.07:879][637]DumpUnbuiltLightIteractions
+[2021.02.14-01.37.07:879][637]Lights with unbuilt interactions: 0
+[2021.02.14-01.37.07:879][637]
+[2021.02.14-01.37.07:879][637]Primitives with unbuilt interactions: 0
+[2021.02.14-01.37.07:960][638]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.14-01.37.07:960][638]MapCheck: New page: FirstPersonExampleMap - Feb 13, 2021, 3:37:07 PM
+[2021.02.14-01.37.07:963][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.453ms to complete.
+[2021.02.14-01.37.27:692][697]LogEditorViewport: Clicking Background
+[2021.02.14-01.37.34:055][451]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.02.14-01.37.58:442][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2021.02.14-01.38.13:763][ 37]MapCheck: New page: Map Check
+[2021.02.14-01.38.13:775][ 37]LightingResults: New page: Lighting Build - Feb 13, 2021, 3:38:13 PM
+[2021.02.14-01.38.13:804][ 37]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.14-01.38.13:806][ 37]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.14-01.38.13:806][ 37]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.14-01.38.13:806][ 37]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.14-01.38.13:806][ 37]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1564
+[2021.02.14-01.38.13:892][ 37]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.14-01.38.13:892][ 37]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.14-01.38.13:892][ 37]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.14-01.38.13:892][ 37]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.14-01.38.13:892][ 37]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.14-01.38.13:959][ 37]LogEditorBuildUtils: Build time 0:00
+[2021.02.14-01.38.13:995][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.02.14-01.38.16:568][212]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.02.14-01.38.21:013][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2021.02.14-01.38.23:729][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2021.02.14-01.38.42:131][727]Job is a success!
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:          1: 6.7% covering 3.1% of volume
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:          2: 90.0% covering 0.7% of volume
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.14-01.38.42:292][729]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 30 bricks 	 100.0% (Persistent Level)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2021.02.14-01.38.44:228][729]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2021.02.14-01.38.44:428][729]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2021.02.14-01.38.44:428][729]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X512)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X1024)
+[2021.02.14-01.38.44:591][729]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 30 meshes in 10 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.02.14-01.38.44:612][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.02.14-01.38.44:634][729]Lightmass on IGM2000-31: 30.2 sec total, 150 ms importing, 24 ms setup, 5.81 sec photons, 24.2 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 4:26 min total, 2:16 min processing.
+[2021.02.14-01.38.44:636][729]LogStaticLightingSystem: Illumination: 30.8 sec (1.53 sec encoding lightmaps, 357 ms encoding shadowmaps)
+[2021.02.14-01.38.44:636][729]LogStaticLightingSystem: Lightmap texture memory:  45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.02.14-01.38.44:636][729]LogStaticLightingSystem: Shadowmap texture memory: 45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.02.14-01.38.44:922][729]DumpUnbuiltLightIteractions
+[2021.02.14-01.38.44:922][729]Lights with unbuilt interactions: 0
+[2021.02.14-01.38.44:922][729]
+[2021.02.14-01.38.44:922][729]Primitives with unbuilt interactions: 0
+[2021.02.14-01.38.44:984][730]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.14-01.38.44:984][730]MapCheck: New page: FirstPersonExampleMap - Feb 13, 2021, 3:38:44 PM
+[2021.02.14-01.38.44:988][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.413ms to complete.
+[2021.02.14-01.39.08:719][541]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.02.14-01.39.14:743][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SamRoomFloor_a)
+[2021.02.14-01.39.15:380][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DiningTable_b)
+[2021.02.14-01.39.25:374][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow2)
+[2021.02.14-01.39.27:269][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.14-01.39.27:715][740]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2021.02.14-01.39.31:705][190]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.14-01.39.31:716][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.14-01.39.31:716][190]PIE: New page: PIE session: FirstPersonExampleMap (Feb 13, 2021, 3:39:31 PM)
+[2021.02.14-01.39.31:749][190]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.39.31:759][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010604s)
+[2021.02.14-01.39.31:761][190]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.14-01.39.31:761][190]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207933B0800), frame # 660190
+[2021.02.14-01.39.31:761][190]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002079A4042C0), frame # 660190
+[2021.02.14-01.39.31:761][190]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2021.02.14-01.39.31:761][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012112s)
+[2021.02.14-01.39.31:778][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-01.39.31:787][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-01.39.31:787][190]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-01.39.31:787][190]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-01.39.31:792][190]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-01.39.31:792][190]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-01.39.31:807][190]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.14-01.39.31:808][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-01.39.31:808][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-01.39.31:808][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-01.39.31:808][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-01.39.31:818][190]LogInit: FAudioDevice initialized.
+[2021.02.14-01.39.31:828][190]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.14-01.39.31:830][190]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.13-20.39.31
+[2021.02.14-01.39.31:830][190]LogWorld: Bringing up level for play took: 0.001479
+[2021.02.14-01.39.31:830][190]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.02.14-01.39.31:832][190]PIE: Server logged in
+[2021.02.14-01.39.31:833][190]PIE: Play in editor total start time 0.117 seconds.
+[2021.02.14-01.39.38:280][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.39.38:280][954]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.39.38:280][954]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-01.39.38:280][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.39.38:287][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.14-01.39.38:290][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.39.38:304][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.39.38:317][954]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002079A4042C0), frame # 660954
+[2021.02.14-01.39.38:317][954]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000207933B0800), frame # 660954
+[2021.02.14-01.39.38:318][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.02.14-01.39.38:347][955]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.02.14-01.39.39:157][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DiningTable_b)
+[2021.02.14-01.39.39:973][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SamRoomFloor_a)
+[2021.02.14-01.39.53:339][583]MapCheck: New page: Map Check
+[2021.02.14-01.39.53:351][583]LightingResults: New page: Lighting Build - Feb 13, 2021, 3:39:53 PM
+[2021.02.14-01.39.53:379][583]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.14-01.39.53:380][583]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.14-01.39.53:380][583]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.14-01.39.53:381][583]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.14-01.39.53:381][583]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1564
+[2021.02.14-01.39.53:445][583]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.14-01.39.53:445][583]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.14-01.39.53:445][583]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.14-01.39.53:445][583]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.14-01.39.53:445][583]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.14-01.39.53:532][583]LogEditorBuildUtils: Build time 0:00
+[2021.02.14-01.39.53:536][583]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_WoodPlanksFloor_a_mat, compiling. 
+[2021.02.14-01.39.53:538][583]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WM_WoodPlanksFloor_a_mat, compiling. 
+[2021.02.14-01.39.53:964][583]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.14-01.39.53:964][583]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.14-01.39.53:964][583]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.14-01.39.53:964][583]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.14-01.39.54:047][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.02.14-01.40.23:063][487]Job is a success!
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:          1: 6.7% covering 3.1% of volume
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:          2: 90.0% covering 0.7% of volume
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.14-01.40.23:226][488]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 30 bricks 	 100.0% (Persistent Level)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2021.02.14-01.40.25:176][488]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2021.02.14-01.40.25:177][488]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2021.02.14-01.40.25:377][488]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 32X32)
+[2021.02.14-01.40.25:377][488]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X512)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 1024X1024)
+[2021.02.14-01.40.25:534][488]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 30 meshes in 10 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.02.14-01.40.25:554][488]Lightmass on IGM2000-31: 31.1 sec total, 153 ms importing, 23 ms setup, 6.12 sec photons, 24.7 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 4:32 min total, 2:24 min processing.
+[2021.02.14-01.40.25:557][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.02.14-01.40.25:584][488]LogStaticLightingSystem: Illumination: 32.1 sec (1.55 sec encoding lightmaps, 352 ms encoding shadowmaps)
+[2021.02.14-01.40.25:584][488]LogStaticLightingSystem: Lightmap texture memory:  45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.02.14-01.40.25:584][488]LogStaticLightingSystem: Shadowmap texture memory: 45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.02.14-01.40.26:475][488]DumpUnbuiltLightIteractions
+[2021.02.14-01.40.26:475][488]Lights with unbuilt interactions: 0
+[2021.02.14-01.40.26:475][488]
+[2021.02.14-01.40.26:475][488]Primitives with unbuilt interactions: 0
+[2021.02.14-01.40.26:547][489]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.14-01.40.26:547][489]MapCheck: New page: FirstPersonExampleMap - Feb 13, 2021, 3:40:26 PM
+[2021.02.14-01.40.26:550][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.549ms to complete.
+[2021.02.14-01.40.31:898][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DiningTable_b)
+[2021.02.14-01.41.50:714][560]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.14-01.41.50:725][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.14-01.41.50:725][560]PIE: New page: PIE session: FirstPersonExampleMap (Feb 13, 2021, 3:41:50 PM)
+[2021.02.14-01.41.50:760][560]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.41.50:770][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010209s)
+[2021.02.14-01.41.50:771][560]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.14-01.41.50:771][560]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002079B6AB200), frame # 673560
+[2021.02.14-01.41.50:771][560]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207AFAE0680), frame # 673560
+[2021.02.14-01.41.50:771][560]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2021.02.14-01.41.50:771][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011602s)
+[2021.02.14-01.41.50:792][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.02.14-01.41.50:801][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-01.41.50:801][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-01.41.50:801][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-01.41.50:801][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-01.41.50:801][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-01.41.50:801][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-01.41.50:802][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-01.41.50:802][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-01.41.50:802][560]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-01.41.50:802][560]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-01.41.50:806][560]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-01.41.50:806][560]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-01.41.50:822][560]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.14-01.41.50:822][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-01.41.50:822][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-01.41.50:822][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-01.41.50:822][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-01.41.50:832][560]LogInit: FAudioDevice initialized.
+[2021.02.14-01.41.50:837][560]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.14-01.41.50:839][560]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.13-20.41.50
+[2021.02.14-01.41.50:839][560]LogWorld: Bringing up level for play took: 0.001444
+[2021.02.14-01.41.50:839][560]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.02.14-01.41.50:841][560]PIE: Server logged in
+[2021.02.14-01.41.50:841][560]PIE: Play in editor total start time 0.117 seconds.
+[2021.02.14-01.41.58:191][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.41.58:191][429]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.41.58:191][429]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-01.41.58:191][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.41.58:195][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.14-01.41.58:198][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.41.58:224][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.41.58:224][429]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000207AFAE0680), frame # 674429
+[2021.02.14-01.41.58:224][429]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002079B6AB200), frame # 674429
+[2021.02.14-01.41.58:226][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.02.14-01.41.58:255][430]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.02.14-01.41.59:131][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CoatCloset_a)
+[2021.02.14-01.42.01:551][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling2)
+[2021.02.14-01.42.15:149][396]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.14-01.42.15:160][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.14-01.42.15:160][396]PIE: New page: PIE session: FirstPersonExampleMap (Feb 13, 2021, 3:42:15 PM)
+[2021.02.14-01.42.15:161][396]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.42.15:170][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009649s)
+[2021.02.14-01.42.15:171][396]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.14-01.42.15:171][396]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207B8EA4A00), frame # 676396
+[2021.02.14-01.42.15:171][396]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002078BDBB740), frame # 676396
+[2021.02.14-01.42.15:172][396]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2021.02.14-01.42.15:172][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011176s)
+[2021.02.14-01.42.15:193][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-01.42.15:198][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-01.42.15:198][396]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-01.42.15:198][396]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-01.42.15:202][396]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-01.42.15:202][396]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-01.42.15:217][396]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.14-01.42.15:217][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-01.42.15:217][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-01.42.15:217][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-01.42.15:218][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-01.42.15:227][396]LogInit: FAudioDevice initialized.
+[2021.02.14-01.42.15:234][396]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.14-01.42.15:235][396]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.13-20.42.15
+[2021.02.14-01.42.15:236][396]LogWorld: Bringing up level for play took: 0.001338
+[2021.02.14-01.42.15:236][396]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.02.14-01.42.15:237][396]PIE: Server logged in
+[2021.02.14-01.42.15:238][396]PIE: Play in editor total start time 0.078 seconds.
+[2021.02.14-01.42.35:850][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.42.35:850][857]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.42.35:851][857]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-01.42.35:851][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.42.35:859][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.14-01.42.35:862][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.42.35:876][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.42.35:888][857]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002078BDBB740), frame # 678857
+[2021.02.14-01.42.35:888][857]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000207B8EA4A00), frame # 678857
+[2021.02.14-01.42.35:890][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.02.14-01.42.35:919][858]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.02.14-01.42.36:732][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DiningTable_b)
+[2021.02.14-01.43.06:497][130]LogStaticMesh: Building static mesh DiningTable_a...
+[2021.02.14-01.43.06:535][130]LogStaticMesh: Built static mesh [0.04s] /Game/EF_FirstFloor/Meshes/DiningTable_a.DiningTable_a
+[2021.02.14-01.43.21:138][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.02.14-01.43.21:825][723]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall2)
+[2021.02.14-01.43.29:034][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarbaraBed_a)
+[2021.02.14-01.43.58:064][781]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/EF_Barbra/Shared/TheresaRoom/HospitalBed/VeneerWood_a_Mat.VeneerWood_a_Mat
+[2021.02.14-01.44.46:402][732]LogSlate: Window 'VeneerWood_a_Mat' being destroyed
+[2021.02.14-01.44.46:407][732]LogSlate: Window 'VeneerWood_a_Mat' being destroyed
+[2021.02.14-01.44.46:422][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.02.14-01.44.46:460][732]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.14-01.44.46:717][732]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.02.14-01.44.46:718][732]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.14-01.44.46:719][732]TextureStreamingBuild: Display: Compiling optional shaders took 0.266 seconds.
+[2021.02.14-01.44.46:740][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.02.14-01.44.46:783][732]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-01.44.46:783][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.44.58:231][857]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.14-01.44.58:349][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.14-01.44.58:349][857]PIE: New page: PIE session: FirstPersonExampleMap (Feb 13, 2021, 3:44:58 PM)
+[2021.02.14-01.44.58:381][857]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.44.58:391][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009849s)
+[2021.02.14-01.44.58:392][857]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.14-01.44.58:392][857]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020795A0B400), frame # 693857
+[2021.02.14-01.44.58:393][857]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000207B8659BC0), frame # 693857
+[2021.02.14-01.44.58:393][857]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2021.02.14-01.44.58:393][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011582s)
+[2021.02.14-01.44.58:413][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-01.44.58:417][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-01.44.58:417][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-01.44.58:418][857]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-01.44.58:418][857]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-01.44.58:422][857]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-01.44.58:422][857]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-01.44.58:438][857]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.14-01.44.58:438][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-01.44.58:438][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-01.44.58:438][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-01.44.58:438][857]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-01.44.58:448][857]LogInit: FAudioDevice initialized.
+[2021.02.14-01.44.58:454][857]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.14-01.44.58:456][857]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.13-20.44.58
+[2021.02.14-01.44.58:456][857]LogWorld: Bringing up level for play took: 0.001440
+[2021.02.14-01.44.58:456][857]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.02.14-01.44.58:457][857]PIE: Server logged in
+[2021.02.14-01.44.58:458][857]PIE: Play in editor total start time 0.109 seconds.
+[2021.02.14-01.45.11:442][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.45.11:442][408]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.45.11:442][408]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-01.45.11:443][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.45.11:451][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.14-01.45.11:454][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.45.11:469][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.45.11:481][408]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000207B8659BC0), frame # 695408
+[2021.02.14-01.45.11:481][408]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020795A0B400), frame # 695408
+[2021.02.14-01.45.11:482][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.02.14-01.45.11:530][410]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.02.14-01.45.12:863][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarbaraBed_a)
+[2021.02.14-01.45.15:423][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SamRoomFloor_a)
+[2021.02.14-01.45.16:535][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DiningTable_b)
+[2021.02.14-01.45.26:469][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BedsideTable_a)
+[2021.02.14-01.45.27:760][ 25]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 131
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 121
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 111
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 101
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 91
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 81
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 71
+[2021.02.14-01.45.27:811][ 25]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2021.02.14-01.45.31:283][209]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2021.02.14-01.45.31:344][212]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2021.02.14-01.45.31:460][218]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2021.02.14-01.45.31:561][222]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2021.02.14-01.45.31:627][225]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.02.14-01.45.31:738][231]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.02.14-01.45.31:876][238]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.02.14-01.45.32:049][247]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.02.14-01.45.32:989][297]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.02.14-01.45.33:173][306]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.02.14-01.45.33:263][311]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.02.14-01.45.33:445][321]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.02.14-01.45.33:549][326]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.02.14-01.45.33:734][336]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.02.14-01.45.33:919][346]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.02.14-01.45.33:991][350]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.02.14-01.45.34:006][351]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.02.14-01.45.34:140][358]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.02.14-01.45.58:041][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BedsideTable_a2)
+[2021.02.14-01.46.00:645][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarbaraBed_a)
+[2021.02.14-01.46.05:327][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DresserWood_b)
+[2021.02.14-01.46.11:210][328]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.14-01.46.11:222][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.14-01.46.11:222][328]PIE: New page: PIE session: FirstPersonExampleMap (Feb 13, 2021, 3:46:11 PM)
+[2021.02.14-01.46.11:261][328]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.46.11:271][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009835s)
+[2021.02.14-01.46.11:272][328]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.14-01.46.11:272][328]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207B9704C00), frame # 701328
+[2021.02.14-01.46.11:272][328]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020798547B00), frame # 701328
+[2021.02.14-01.46.11:272][328]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2021.02.14-01.46.11:272][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011479s)
+[2021.02.14-01.46.11:292][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-01.46.11:299][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-01.46.11:299][328]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-01.46.11:299][328]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-01.46.11:304][328]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-01.46.11:304][328]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-01.46.11:319][328]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.14-01.46.11:320][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-01.46.11:320][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-01.46.11:320][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-01.46.11:320][328]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-01.46.11:329][328]LogInit: FAudioDevice initialized.
+[2021.02.14-01.46.11:336][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.14-01.46.11:337][328]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.13-20.46.11
+[2021.02.14-01.46.11:337][328]LogWorld: Bringing up level for play took: 0.001329
+[2021.02.14-01.46.11:338][328]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.02.14-01.46.11:339][328]PIE: Server logged in
+[2021.02.14-01.46.11:340][328]PIE: Play in editor total start time 0.119 seconds.
+[2021.02.14-01.46.22:762][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.46.22:763][689]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.14-01.46.22:763][689]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-01.46.22:763][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.46.22:768][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.14-01.46.22:771][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-01.46.22:783][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-01.46.22:795][689]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020798547B00), frame # 702689
+[2021.02.14-01.46.22:795][689]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000207B9704C00), frame # 702689
+[2021.02.14-01.46.22:797][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.02.14-01.46.22:833][691]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.02.14-01.46.24:835][927]MapCheck: New page: Map Check
+[2021.02.14-01.46.24:847][927]LightingResults: New page: Lighting Build - Feb 13, 2021, 3:46:24 PM
+[2021.02.14-01.46.24:874][927]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.14-01.46.24:876][927]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.14-01.46.24:876][927]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.14-01.46.24:876][927]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.14-01.46.24:876][927]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1564
+[2021.02.14-01.46.24:949][927]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.14-01.46.24:949][927]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.14-01.46.24:949][927]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.14-01.46.24:949][927]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.14-01.46.24:949][927]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.14-01.46.25:014][927]LogEditorBuildUtils: Build time 0:00
+[2021.02.14-01.46.25:018][927]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ShelfWood_Mat, compiling. 
+[2021.02.14-01.46.25:020][927]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ShelfWood_Mat, compiling. 
+[2021.02.14-01.46.25:065][928]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.14-01.46.25:065][928]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.14-01.46.25:065][928]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.14-01.46.25:065][928]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.14-01.46.25:564][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.02.14-01.46.53:069][563]Job is a success!
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:          1: 6.7% covering 3.1% of volume
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:          2: 90.0% covering 0.7% of volume
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.14-01.46.53:529][564]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 30 bricks 	 100.0% (Persistent Level)
+[2021.02.14-01.46.55:498][564]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.02.14-01.46.55:498][564]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.02.14-01.46.55:498][564]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.02.14-01.46.55:498][564]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.02.14-01.46.55:498][564]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2021.02.14-01.46.55:499][564]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2021.02.14-01.46.55:699][564]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 32X32)
+[2021.02.14-01.46.55:699][564]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 1024X512)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:854][564]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 1024X1024)
+[2021.02.14-01.46.55:855][564]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 30 meshes in 10 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.02.14-01.46.55:879][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.02.14-01.46.55:902][564]Lightmass on IGM2000-31: 29.9 sec total, 160 ms importing, 24 ms setup, 5.79 sec photons, 23.9 sec processing, 0 ms extra exporting [30/30 mappings]. Threads: 4:22 min total, 2:14 min processing.
+[2021.02.14-01.46.55:905][564]LogStaticLightingSystem: Illumination: 30.7 sec (1.57 sec encoding lightmaps, 350 ms encoding shadowmaps)
+[2021.02.14-01.46.55:905][564]LogStaticLightingSystem: Lightmap texture memory:  45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.02.14-01.46.55:905][564]LogStaticLightingSystem: Shadowmap texture memory: 45.3 MB (45.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.02.14-01.46.56:979][564]DumpUnbuiltLightIteractions
+[2021.02.14-01.46.56:979][564]Lights with unbuilt interactions: 0
+[2021.02.14-01.46.56:979][564]
+[2021.02.14-01.46.56:979][564]Primitives with unbuilt interactions: 0
+[2021.02.14-01.46.57:068][565]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.14-01.46.57:069][565]MapCheck: New page: FirstPersonExampleMap - Feb 13, 2021, 3:46:57 PM
+[2021.02.14-01.46.57:071][565]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.483ms to complete.
+[2021.02.14-01.47.04:250][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.02.14-01.47.04:288][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.02.14-01.47.05:512][711]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/AnExpressiveRoom/Saved/FirstPersonExampleMap6B7E8471416C5FCCE434868563D8338D.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/AnExpressiveRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.02.14-01.47.05:591][711]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.326
+[2021.02.14-01.47.07:377][711]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/AnExpressiveRoom/Saved/FirstPersonExampleMap_BuiltDataB6BF1E1143136AA0492057B4682AF979.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/AnExpressiveRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.02.14-01.47.07:542][711]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/AnExpressiveRoom/Saved/VeneerWood_a_Mat15C094CB44141E274BEE39B749CEFF49.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/AnExpressiveRoom/Content/EF_Barbra/Shared/TheresaRoom/HospitalBed/VeneerWood_a_Mat.uasset'
+[2021.02.14-01.47.07:629][711]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.14-01.47.07:629][711]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.02.14-01.47.07:629][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.02.14-01.47.07:629][711]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/EF_Barbra/Shared/TheresaRoom/HospitalBed/VeneerWood_a_Mat.VeneerWood_a_Mat
