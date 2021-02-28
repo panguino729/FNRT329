@@ -1851,3 +1851,518 @@ If checked into source control this would affect other developers.
 [2021.02.28-22.39.34:239][956]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
 [2021.02.28-22.39.34:239][956]MaterialEditorStats: Base pass vertex shader: 40 instructions
 [2021.02.28-22.39.34:239][956]MaterialEditorStats: Texture samplers: 3/16
+[2021.02.28-22.39.54:330][165]LogMaterialEditor: Saving and Compiling material RoomsInside
+[2021.02.28-22.39.54:342][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LogicalArea/RoomsInside" FILE="Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/Materials/LogicalArea/RoomsInside.uasset" SILENT=true
+[2021.02.28-22.39.54:433][165]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/RoomsInsideCC7364284F2F024FE6CCBD8226E140F1.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/Materials/LogicalArea/RoomsInside.uasset'
+[2021.02.28-22.39.54:475][165]AssetCheck: New page: Asset Save: RoomsInside
+[2021.02.28-22.39.54:475][165]LogContentValidation: Display: Validating Material /Game/Materials/LogicalArea/RoomsInside.RoomsInside
+[2021.02.28-22.39.55:648][276]LogSlate: Window 'RoomsInside' being destroyed
+[2021.02.28-22.39.55:652][276]LogSlate: Window 'RoomsInside' being destroyed
+[2021.02.28-22.39.55:721][276]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-22.39.55:721][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.39.57:053][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.02.28-22.39.59:101][412]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/FirstPersonExampleMapB4814E804B8334C3661DE7BFC9CD06C8.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.02.28-22.40.01:183][412]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/FirstPersonExampleMap_BuiltDataFFE898EF441D2811F5D4E38EFC68C2C5.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.02.28-22.40.01:256][412]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-22.40.01:256][412]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.02.28-22.40.01:256][412]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.02.28-22.40.11:845][800]LogSlate: Window 'Save Level As' being destroyed
+[2021.02.28-22.40.11:889][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.02.28-22.40.11:913][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssignment" FILE="Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.28-22.40.11:965][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.02.28-22.40.13:124][800]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/ArtAssignment2A625AF144D6DBFC491C9398566FD74B.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment.umap'
+[2021.02.28-22.40.13:189][800]LogFileHelpers: Saving map 'ArtAssignment' took 1.339
+[2021.02.28-22.40.13:189][800]Cmd: MAP LOAD FILE="Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.28-22.40.13:207][800]LightingResults: New page: Lighting Build
+[2021.02.28-22.40.13:207][800]LoadErrors: New page: Loading map: ArtAssignment.umap
+[2021.02.28-22.40.13:242][800]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-22.40.13:243][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.40.13:243][800]MapCheck: New page: Map Check
+[2021.02.28-22.40.13:243][800]LightingResults: New page: Lighting Build
+[2021.02.28-22.40.13:257][800]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A69679E200), frame # 181800
+[2021.02.28-22.40.13:257][800]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A6968B25C0), frame # 181800
+[2021.02.28-22.40.13:259][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.02.28-22.40.13:418][800]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.28-22.40.13:418][800]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.02.28-22.40.13:418][800]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A6A9BA6600), frame # 181800
+[2021.02.28-22.40.13:418][800]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A703667100), frame # 181800
+[2021.02.28-22.40.13:432][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.02.28-22.40.13:466][800]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.28-22.40.13:466][800]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2021.02.28-22.40.13:466][800]LogFileHelpers: Loading map 'ArtAssignment' took 0.277
+[2021.02.28-22.40.13:489][800]AssetCheck: New page: Asset Save: ArtAssignment
+[2021.02.28-22.40.13:489][800]LogContentValidation: Display: Validating World /Game/ArtAssignment.ArtAssignment
+[2021.02.28-22.40.21:750][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-22.40.23:503][956]Cmd: TRANSACTION UNDO
+[2021.02.28-22.40.23:503][956]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.28-22.40.25:731][165]Cmd: TRANSACTION UNDO
+[2021.02.28-22.40.25:731][165]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.28-22.40.26:094][206]Cmd: TRANSACTION UNDO
+[2021.02.28-22.40.26:094][206]LogEditorTransaction: Undo Select Surfaces
+[2021.02.28-22.40.27:056][316]Cmd: TRANSACTION UNDO
+[2021.02.28-22.40.27:056][316]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.28-22.40.27:383][352]Cmd: TRANSACTION UNDO
+[2021.02.28-22.40.27:383][352]LogEditorTransaction: Undo Set Material
+[2021.02.28-22.40.33:939][117]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-22.40.33:948][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-22.40.33:948][117]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 12:40:33 PM)
+[2021.02.28-22.40.33:972][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.40.33:983][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011625s)
+[2021.02.28-22.40.33:984][117]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.02.28-22.40.33:985][117]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A6FF1AFA00), frame # 184117
+[2021.02.28-22.40.33:985][117]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A6F0B8D440), frame # 184117
+[2021.02.28-22.40.33:985][117]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2021.02.28-22.40.33:985][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.013140s)
+[2021.02.28-22.40.34:001][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-22.40.34:005][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-22.40.34:005][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-22.40.34:005][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-22.40.34:009][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-22.40.34:009][117]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-22.40.34:024][117]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.28-22.40.34:024][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-22.40.34:024][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-22.40.34:024][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-22.40.34:025][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-22.40.34:034][117]LogInit: FAudioDevice initialized.
+[2021.02.28-22.40.34:040][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.28-22.40.34:041][117]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-17.40.34
+[2021.02.28-22.40.34:041][117]LogWorld: Bringing up level for play took: 0.000901
+[2021.02.28-22.40.34:041][117]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.02.28-22.40.34:042][117]PIE: Server logged in
+[2021.02.28-22.40.34:043][117]PIE: Play in editor total start time 0.096 seconds.
+[2021.02.28-22.40.44:532][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.40.44:532][366]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.40.44:533][366]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-22.40.44:533][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.40.44:537][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-22.40.44:540][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.40.44:564][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.40.44:565][366]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A6F0B8D440), frame # 185366
+[2021.02.28-22.40.44:565][366]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A6FF1AFA00), frame # 185366
+[2021.02.28-22.40.44:567][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.02.28-22.40.44:613][369]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.28-22.40.45:380][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-22.40.49:159][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-22.41.00:423][218]Cmd: EDIT COPY
+[2021.02.28-22.41.00:600][239]Cmd: EDIT PASTE
+[2021.02.28-22.41.30:265][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-22.41.30:274][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-22.41.30:274][723]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 12:41:30 PM)
+[2021.02.28-22.41.30:274][723]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.41.30:285][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010627s)
+[2021.02.28-22.41.30:286][723]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.02.28-22.41.30:286][723]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A6FF7BEA00), frame # 190723
+[2021.02.28-22.41.30:286][723]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A6BDA64CC0), frame # 190723
+[2021.02.28-22.41.30:286][723]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2021.02.28-22.41.30:286][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.012068s)
+[2021.02.28-22.41.30:304][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-22.41.30:308][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-22.41.30:308][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-22.41.30:309][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-22.41.30:309][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-22.41.30:313][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-22.41.30:313][723]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-22.41.30:327][723]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.28-22.41.30:327][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-22.41.30:327][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-22.41.30:327][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-22.41.30:327][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-22.41.30:337][723]LogInit: FAudioDevice initialized.
+[2021.02.28-22.41.30:346][723]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.28-22.41.30:347][723]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-17.41.30
+[2021.02.28-22.41.30:347][723]LogWorld: Bringing up level for play took: 0.000913
+[2021.02.28-22.41.30:347][723]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.02.28-22.41.30:348][723]PIE: Server logged in
+[2021.02.28-22.41.30:349][723]PIE: Play in editor total start time 0.076 seconds.
+[2021.02.28-22.41.40:662][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.41.40:662][953]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.41.40:662][953]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-22.41.40:663][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.41.40:670][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-22.41.40:673][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.41.40:697][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.41.40:697][953]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A6BDA64CC0), frame # 191953
+[2021.02.28-22.41.40:697][953]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A6FF7BEA00), frame # 191953
+[2021.02.28-22.41.40:699][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.02.28-22.41.40:743][955]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.02.28-22.41.58:536][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.02.28-22.44.19:166][753]Cmd: EDIT COPY
+[2021.02.28-22.44.19:317][771]Cmd: EDIT PASTE
+[2021.02.28-22.45.58:020][486]MapCheck: New page: Map Check
+[2021.02.28-22.45.58:037][486]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.28-22.45.58:039][486]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.28-22.45.58:222][486]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=false
+[2021.02.28-22.45.58:229][486]LogEditorServer: Cleared 2 NULL BSP materials after rebuild.
+[2021.02.28-22.45.58:229][486]LightingResults: New page: Lighting Build - Feb 28, 2021, 12:45:58 PM
+[2021.02.28-22.45.58:256][486]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.28-22.45.58:257][486]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.28-22.45.58:258][486]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.28-22.45.58:258][486]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.28-22.45.58:258][486]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2021.02.28-22.45.58:365][486]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.28-22.45.58:365][486]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.28-22.45.58:365][486]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.28-22.45.58:365][486]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.28-22.45.58:365][486]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.28-22.45.58:442][486]LogEditorBuildUtils: Build time 0:00
+[2021.02.28-22.45.58:447][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RoomsInside, compiling. 
+[2021.02.28-22.45.58:449][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RoomsInside, compiling. 
+[2021.02.28-22.45.58:914][486]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-22.45.58:914][486]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-22.45.58:914][486]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-22.45.58:914][486]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-22.45.59:025][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.02.28-22.46.02:562][783]LightingResults: Warning: <None> Object has overlapping UVs.
+[2021.02.28-22.46.02:562][783]LightingResults: <None> Lightmap UV are overlapping by 8.5%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.28-22.46.12:437][366]Job is a success!
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.042s
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:          1: 5.9% covering 6.2% of volume
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.28-22.46.12:917][367]LogVolumetricLightmapImport:          ArtAssignment 			 68 bricks 	 100.0% (Persistent Level)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2021.02.28-22.46.13:944][367]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2021.02.28-22.46.14:145][367]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.02.28-22.46.14:146][367]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 256X256)
+[2021.02.28-22.46.14:146][367]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.02.28-22.46.14:146][367]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2021.02.28-22.46.14:238][367]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.02.28-22.46.14:238][367]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.02.28-22.46.14:238][367]Lightmass on IGM2000-31: 14.7 sec total, 123 ms importing, 15 ms setup, 2.85 sec photons, 11.7 sec processing, 0 ms extra exporting [81/81 mappings]. Threads: 2:09 min total, 33.3 sec processing.
+[2021.02.28-22.46.14:245][367]LogStaticLightingSystem: ArtAssignment_BuiltData storing lightmap data for 7 meshes in 6 LightmapResourceClusters (1.2 Meshes per cluster).
+[2021.02.28-22.46.14:262][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.28-22.46.14:276][367]LogMaterial: Display: Material /Game/Materials/LogicalArea/RoomsInside.RoomsInside needed to have new flag set bUsedWithStaticLighting !
+[2021.02.28-22.46.14:277][367]LogMaterial: Display: Missing cached shader map for material RoomsInside, compiling. 
+[2021.02.28-22.46.14:303][367]LogStaticLightingSystem: Illumination: 15.7 sec (822 ms encoding lightmaps, 235 ms encoding shadowmaps)
+[2021.02.28-22.46.14:303][367]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (21.3 MB streaming, 0.7 MB non-streaming), 8 textures
+[2021.02.28-22.46.14:303][367]LogStaticLightingSystem: Shadowmap texture memory: 21.7 MB (21.3 MB streaming, 0.3 MB non-streaming), 6 textures
+[2021.02.28-22.46.15:381][367]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.02.28-22.46.15:381][367]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.02.28-22.46.15:381][367]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.02.28-22.46.15:381][367]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.02.28-22.46.15:381][367]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.02.28-22.46.15:381][367]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.02.28-22.46.15:381][367]DumpUnbuiltLightIteractions
+[2021.02.28-22.46.15:382][367]Lights with unbuilt interactions: 0
+[2021.02.28-22.46.15:382][367]
+[2021.02.28-22.46.15:382][367]Primitives with unbuilt interactions: 0
+[2021.02.28-22.46.16:109][368]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.28-22.46.16:109][368]MapCheck: New page: ArtAssignment - Feb 28, 2021, 12:46:16 PM
+[2021.02.28-22.46.16:112][368]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.521ms to complete.
+[2021.02.28-22.46.42:619][447]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-22.46.42:623][447]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-22.46.55:319][927]Cmd: DELETE
+[2021.02.28-22.46.55:319][927]Cmd: ACTOR DELETE
+[2021.02.28-22.46.55:320][927]LogEditorActor: Deleted Actor: PointLight
+[2021.02.28-22.46.55:334][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.02.28-22.46.55:339][927]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.02.28-22.47.08:783][517]Cmd: TRANSACTION UNDO
+[2021.02.28-22.47.08:783][517]LogEditorTransaction: Undo Edit Attenuation Radius
+[2021.02.28-22.47.09:110][526]Cmd: TRANSACTION UNDO
+[2021.02.28-22.47.09:110][526]LogEditorTransaction: Undo Edit Intensity
+[2021.02.28-22.47.10:459][670]Cmd: TRANSACTION UNDO
+[2021.02.28-22.47.10:459][670]LogEditorTransaction: Undo Edit Intensity
+[2021.02.28-22.47.13:637][ 44]MapCheck: New page: Map Check
+[2021.02.28-22.47.13:649][ 44]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.28-22.47.13:649][ 44]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.28-22.47.13:874][ 44]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=false
+[2021.02.28-22.47.13:881][ 44]LightingResults: New page: Lighting Build - Feb 28, 2021, 12:47:13 PM
+[2021.02.28-22.47.13:909][ 44]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.28-22.47.13:910][ 44]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.28-22.47.13:910][ 44]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.28-22.47.13:910][ 44]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.28-22.47.13:910][ 44]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2021.02.28-22.47.13:978][ 44]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.28-22.47.13:978][ 44]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.28-22.47.13:978][ 44]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.28-22.47.13:978][ 44]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.28-22.47.13:978][ 44]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.28-22.47.14:047][ 44]LogEditorBuildUtils: Build time 0:00
+[2021.02.28-22.47.14:052][ 44]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RoomsInside, compiling. 
+[2021.02.28-22.47.14:054][ 44]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RoomsInside, compiling. 
+[2021.02.28-22.47.14:481][ 44]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.28-22.47.14:481][ 44]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.02.28-22.47.14:481][ 44]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.02.28-22.47.14:481][ 44]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.02.28-22.47.14:593][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.02.28-22.47.18:125][328]LightingResults: Warning: <None> Object has overlapping UVs.
+[2021.02.28-22.47.18:125][328]LightingResults: <None> Lightmap UV are overlapping by 8.5%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.28-22.47.19:546][439]MapCheck: New page: Map Check
+[2021.02.28-22.47.19:560][439]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.28-22.47.19:560][439]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.28-22.47.19:972][439]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=false
+[2021.02.28-22.47.19:986][439]LogStaticLightingSystem: Warning: Failed to build lighting!!! A lighting build is already in progress! Please cancel it before triggering a new build.
+[2021.02.28-22.47.20:985][439]Job has failed! Job is closed while Tasks are still RUNNING
+[2021.02.28-22.47.20:985][439]LogEditorBuildUtils: Build time 0:01
+[2021.02.28-22.47.22:720][625]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-22.47.22:724][625]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-22.47.26:818][114]MapCheck: New page: Map Check
+[2021.02.28-22.47.26:826][114]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.28-22.47.26:826][114]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.28-22.47.27:114][114]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=false
+[2021.02.28-22.47.27:122][114]LightingResults: New page: Lighting Build - Feb 28, 2021, 12:47:27 PM
+[2021.02.28-22.47.27:148][114]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.28-22.47.27:149][114]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.28-22.47.27:149][114]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.28-22.47.27:150][114]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.28-22.47.27:150][114]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2021.02.28-22.47.27:211][114]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.28-22.47.27:211][114]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.28-22.47.27:211][114]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.28-22.47.27:211][114]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.28-22.47.27:211][114]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.28-22.47.27:278][114]LogEditorBuildUtils: Build time 0:00
+[2021.02.28-22.47.27:373][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.02.28-22.47.30:794][383]LightingResults: Warning: <None> Object has overlapping UVs.
+[2021.02.28-22.47.30:794][383]LightingResults: <None> Lightmap UV are overlapping by 8.5%. Please adjust content - Enable Error Coloring to visualize.
+[2021.02.28-22.47.39:677][175]Job is a success!
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:          1: 5.9% covering 6.2% of volume
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.28-22.47.39:887][176]LogVolumetricLightmapImport:          ArtAssignment 			 68 bricks 	 100.0% (Persistent Level)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2021.02.28-22.47.40:835][176]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2021.02.28-22.47.41:036][176]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2021.02.28-22.47.41:036][176]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 256X256)
+[2021.02.28-22.47.41:036][176]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2021.02.28-22.47.41:036][176]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2021.02.28-22.47.41:106][176]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2021.02.28-22.47.41:106][176]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2021.02.28-22.47.41:106][176]Lightmass on IGM2000-31: 13.3 sec total, 115 ms importing, 15 ms setup, 2.83 sec photons, 10.3 sec processing, 0 ms extra exporting [81/81 mappings]. Threads: 1:53 min total, 31.6 sec processing.
+[2021.02.28-22.47.41:112][176]LogStaticLightingSystem: ArtAssignment_BuiltData storing lightmap data for 7 meshes in 6 LightmapResourceClusters (1.2 Meshes per cluster).
+[2021.02.28-22.47.41:130][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.02.28-22.47.41:148][176]LogStaticLightingSystem: Illumination: 14.0 sec (801 ms encoding lightmaps, 226 ms encoding shadowmaps)
+[2021.02.28-22.47.41:148][176]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (21.3 MB streaming, 0.7 MB non-streaming), 8 textures
+[2021.02.28-22.47.41:148][176]LogStaticLightingSystem: Shadowmap texture memory: 21.7 MB (21.3 MB streaming, 0.3 MB non-streaming), 6 textures
+[2021.02.28-22.47.42:223][176]DumpUnbuiltLightIteractions
+[2021.02.28-22.47.42:223][176]Lights with unbuilt interactions: 0
+[2021.02.28-22.47.42:223][176]
+[2021.02.28-22.47.42:223][176]Primitives with unbuilt interactions: 0
+[2021.02.28-22.47.42:312][177]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.28-22.47.42:312][177]MapCheck: New page: ArtAssignment - Feb 28, 2021, 12:47:42 PM
+[2021.02.28-22.47.42:315][177]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.783ms to complete.
+[2021.02.28-22.47.43:417][299]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-22.47.43:420][299]LogSlate: Window 'Message Log' being destroyed
+[2021.02.28-22.47.43:977][366]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-22.47.43:986][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-22.47.43:986][366]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 12:47:43 PM)
+[2021.02.28-22.47.44:013][366]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.47.44:026][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011987s)
+[2021.02.28-22.47.44:027][366]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.02.28-22.47.44:027][366]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A7585CB800), frame # 229366
+[2021.02.28-22.47.44:027][366]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A6F60825C0), frame # 229366
+[2021.02.28-22.47.44:028][366]LogPlayLevel: PIE: World Init took: (0.002132s)
+[2021.02.28-22.47.44:028][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.014299s)
+[2021.02.28-22.47.44:045][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-22.47.44:046][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-22.47.44:046][366]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-22.47.44:046][366]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-22.47.44:050][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-22.47.44:050][366]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-22.47.44:065][366]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.28-22.47.44:065][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-22.47.44:065][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-22.47.44:065][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-22.47.44:066][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-22.47.44:075][366]LogInit: FAudioDevice initialized.
+[2021.02.28-22.47.44:083][366]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.28-22.47.44:084][366]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-17.47.44
+[2021.02.28-22.47.44:084][366]LogWorld: Bringing up level for play took: 0.001017
+[2021.02.28-22.47.44:084][366]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.02.28-22.47.44:086][366]PIE: Server logged in
+[2021.02.28-22.47.44:086][366]PIE: Play in editor total start time 0.101 seconds.
+[2021.02.28-22.47.49:115][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.47.49:115][961]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.47.49:115][961]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-22.47.49:115][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.47.49:119][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-22.47.49:122][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.47.49:134][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.47.49:147][961]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A6F60825C0), frame # 229961
+[2021.02.28-22.47.49:147][961]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A7585CB800), frame # 229961
+[2021.02.28-22.47.49:148][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.02.28-22.47.49:186][963]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.02.28-22.48.15:575][120]Cmd: EDIT COPY
+[2021.02.28-22.48.15:743][140]Cmd: EDIT PASTE
+[2021.02.28-22.48.19:094][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.02.28-22.49.26:595][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.28-22.49.30:952][986]Cmd: EDIT COPY
+[2021.02.28-22.49.31:102][  4]Cmd: EDIT PASTE
+[2021.02.28-22.49.50:243][254]Cmd: EDIT COPY
+[2021.02.28-22.49.50:393][272]Cmd: EDIT PASTE
+[2021.02.28-22.50.03:832][866]Cmd: TRANSACTION UNDO
+[2021.02.28-22.50.03:832][866]LogEditorTransaction: Undo Move Actors
+[2021.02.28-22.50.04:126][875]Cmd: TRANSACTION UNDO
+[2021.02.28-22.50.04:126][875]LogEditorTransaction: Undo Move Actors
+[2021.02.28-22.50.04:685][922]Cmd: TRANSACTION UNDO
+[2021.02.28-22.50.04:685][922]LogEditorTransaction: Undo Move Actors
+[2021.02.28-22.50.05:566][ 25]Cmd: TRANSACTION UNDO
+[2021.02.28-22.50.05:566][ 25]LogEditorTransaction: Undo Move Actors
+[2021.02.28-22.50.12:398][827]Cmd: EDIT COPY
+[2021.02.28-22.50.12:532][842]Cmd: EDIT PASTE
+[2021.02.28-22.50.38:525][882]Cmd: EDIT COPY
+[2021.02.28-22.50.38:758][910]Cmd: EDIT PASTE
+[2021.02.28-22.50.48:275][ 36]Cmd: EDIT COPY
+[2021.02.28-22.50.48:416][ 53]Cmd: EDIT PASTE
+[2021.02.28-22.50.51:951][462]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.28-22.50.51:960][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.28-22.50.51:960][462]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 12:50:51 PM)
+[2021.02.28-22.50.51:984][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.50.51:997][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012617s)
+[2021.02.28-22.50.51:998][462]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.02.28-22.50.51:998][462]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A73ACAEC00), frame # 251462
+[2021.02.28-22.50.51:998][462]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A70337C680), frame # 251462
+[2021.02.28-22.50.51:998][462]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2021.02.28-22.50.51:998][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.014167s)
+[2021.02.28-22.50.52:018][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.28-22.50.52:020][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.28-22.50.52:020][462]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.28-22.50.52:020][462]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.28-22.50.52:024][462]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.28-22.50.52:025][462]LogAudioMixer: Display: 1: FrontRight
+[2021.02.28-22.50.52:039][462]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.02.28-22.50.52:040][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.28-22.50.52:040][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.28-22.50.52:040][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.28-22.50.52:040][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.28-22.50.52:050][462]LogInit: FAudioDevice initialized.
+[2021.02.28-22.50.52:060][462]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.02.28-22.50.52:061][462]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-17.50.52
+[2021.02.28-22.50.52:061][462]LogWorld: Bringing up level for play took: 0.001066
+[2021.02.28-22.50.52:061][462]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.02.28-22.50.52:063][462]PIE: Server logged in
+[2021.02.28-22.50.52:063][462]PIE: Play in editor total start time 0.104 seconds.
+[2021.02.28-22.51.09:696][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.51.09:696][567]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.02.28-22.51.09:696][567]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.02.28-22.51.09:696][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.51.09:706][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.28-22.51.09:708][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.28-22.51.09:721][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.28-22.51.09:734][567]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A70337C680), frame # 253567
+[2021.02.28-22.51.09:734][567]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A73ACAEC00), frame # 253567
+[2021.02.28-22.51.09:735][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.02.28-22.51.09:759][568]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.02.28-22.51.11:767][805]MapCheck: New page: Map Check
+[2021.02.28-22.51.11:775][805]Cmd: MAP REBUILD ALLVISIBLE
+[2021.02.28-22.51.11:778][805]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.02.28-22.51.12:109][805]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=false
+[2021.02.28-22.51.12:119][805]LightingResults: New page: Lighting Build - Feb 28, 2021, 12:51:12 PM
+[2021.02.28-22.51.12:145][805]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.02.28-22.51.12:146][805]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.02.28-22.51.12:146][805]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.02.28-22.51.12:147][805]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.02.28-22.51.12:147][805]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2021.02.28-22.51.12:209][805]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.02.28-22.51.12:209][805]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.02.28-22.51.12:209][805]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.02.28-22.51.12:209][805]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.02.28-22.51.12:209][805]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.02.28-22.51.12:282][805]LogEditorBuildUtils: Build time 0:00
+[2021.02.28-22.51.12:391][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.02.28-22.51.13:645][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssignment" FILE="Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.28-22.51.13:664][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.02.28-22.51.15:243][893]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/ArtAssignment1F59ADF64370ABCF745F08A23E695159.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment.umap'
+[2021.02.28-22.51.15:306][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssignment_BuiltData" FILE="Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment_BuiltData.uasset" SILENT=true
+[2021.02.28-22.51.16:496][893]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/ArtAssignment_BuiltData1844A1FA413435507E9FB4BA07560605.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/ArtAssignment_BuiltData.uasset'
+[2021.02.28-22.51.16:650][893]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.28-22.51.16:650][893]LogContentValidation: Display: Validating World /Game/ArtAssignment.ArtAssignment
+[2021.02.28-22.51.16:651][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArtAssignment_BuiltData.ArtAssignment_BuiltData
+[2021.02.28-22.51.24:947][998]Job is a success!
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:      Bricks at depth
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:          1: 5.9% covering 6.2% of volume
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:      Bricks in each level
+[2021.02.28-22.51.25:390][999]LogVolumetricLightmapImport:          ArtAssignment 			 68 bricks 	 100.0% (Persistent Level)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2021.02.28-22.51.26:329][999]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2021.02.28-22.51.26:529][999]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2021.02.28-22.51.26:529][999]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 256X256)
+[2021.02.28-22.51.26:581][999]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2021.02.28-22.51.26:581][999]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2021.02.28-22.51.26:581][999]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2021.02.28-22.51.26:581][999]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2021.02.28-22.51.26:582][999]LogStaticLightingSystem: ArtAssignment_BuiltData storing lightmap data for 7 meshes in 6 LightmapResourceClusters (1.2 Meshes per cluster).
+[2021.02.28-22.51.26:597][999]Lightmass on IGM2000-31: 13.8 sec total, 116 ms importing, 15 ms setup, 2.64 sec photons, 11.0 sec processing, 0 ms extra exporting [141/141 mappings]. Threads: 2:01 min total, 31.8 sec processing.
+[2021.02.28-22.51.26:600][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.02.28-22.51.26:620][999]LogStaticLightingSystem: Illumination: 14.1 sec (787 ms encoding lightmaps, 245 ms encoding shadowmaps)
+[2021.02.28-22.51.26:620][999]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (21.3 MB streaming, 0.7 MB non-streaming), 8 textures
+[2021.02.28-22.51.26:620][999]LogStaticLightingSystem: Shadowmap texture memory: 21.7 MB (21.3 MB streaming, 0.3 MB non-streaming), 6 textures
+[2021.02.28-22.51.27:224][999]DumpUnbuiltLightIteractions
+[2021.02.28-22.51.27:224][999]Lights with unbuilt interactions: 0
+[2021.02.28-22.51.27:224][999]
+[2021.02.28-22.51.27:224][999]Primitives with unbuilt interactions: 0
+[2021.02.28-22.51.27:296][  0]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.02.28-22.51.27:296][  0]MapCheck: New page: ArtAssignment - Feb 28, 2021, 12:51:27 PM
+[2021.02.28-22.51.27:303][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.539ms to complete.
