@@ -8041,3 +8041,303 @@ If checked into source control this would affect other developers.
 [2021.03.01-01.49.34:316][181]LogOnline: OSS: Creating online subsystem instance for: :Context_62
 [2021.03.01-01.49.34:318][181]PIE: Server logged in
 [2021.03.01-01.49.34:319][181]PIE: Play in editor total start time 0.447 seconds.
+[2021.03.01-01.49.44:377][353]Cmd: LevelEditor.ToggleImmersive
+[2021.03.01-01.49.44:480][354]LogRenderer: Reallocating scene render targets to support 1260x816 Format 10 NumSamples 1 (Frame:1174).
+[2021.03.01-01.49.44:514][355]LogRenderer: Reallocating scene render targets to support 1908x1032 Format 10 NumSamples 1 (Frame:1176).
+[2021.03.01-01.49.44:550][356]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:1178).
+[2021.03.01-01.49.49:639][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.49.49:639][963]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.49.49:639][963]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-01.49.49:640][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.49.49:652][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-01.49.49:655][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.49.49:687][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.49.49:689][963]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A8034C91C0), frame # 1120963
+[2021.03.01-01.49.49:689][963]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A79C2D6C00), frame # 1120963
+[2021.03.01-01.49.49:692][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.01-01.49.49:724][965]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.03.01-01.49.56:441][769]Cmd: SELECT NONE
+[2021.03.01-01.50.06:338][918]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.03.01-01.50.06:376][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.03.01-01.50.06:429][919]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.03.01-01.50.06:441][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.03.01-01.50.06:532][920]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.03.01-01.50.06:644][921]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.03.01-01.50.06:782][923]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2021.03.01-01.50.06:898][924]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2021.03.01-01.50.07:011][925]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2021.03.01-01.50.07:141][926]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2021.03.01-01.50.07:835][950]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 233
+[2021.03.01-01.50.07:835][950]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 223
+[2021.03.01-01.50.07:835][950]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 213
+[2021.03.01-01.50.08:135][956]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 203
+[2021.03.01-01.50.08:135][956]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 193
+[2021.03.01-01.50.08:135][956]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 183
+[2021.03.01-01.50.08:328][970]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 173
+[2021.03.01-01.50.08:475][980]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 163
+[2021.03.01-01.50.10:703][130]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 153
+[2021.03.01-01.50.11:027][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 143
+[2021.03.01-01.50.11:122][159]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 133
+[2021.03.01-01.50.11:140][160]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 123
+[2021.03.01-01.50.11:350][174]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 113
+[2021.03.01-01.50.11:373][175]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 103
+[2021.03.01-01.50.12:093][222]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 93
+[2021.03.01-01.50.12:142][224]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 83
+[2021.03.01-01.50.13:663][321]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2021.03.01-01.50.14:075][347]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2021.03.01-01.50.14:236][360]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2021.03.01-01.50.14:412][371]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2021.03.01-01.50.14:572][381]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2021.03.01-01.50.14:696][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2021.03.01-01.50.15:348][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.03.01-01.50.15:517][443]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.03.01-01.50.16:256][494]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.03.01-01.50.16:317][498]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.03.01-01.50.16:573][515]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.03.01-01.50.16:663][521]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.03.01-01.50.16:731][526]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.03.01-01.50.16:817][532]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.03.01-01.50.16:833][533]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.01-01.50.16:916][538]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.03.01-01.50.17:084][546]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.01-01.50.17:196][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.03.01-01.50.17:214][555]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.03.01-01.50.17:325][563]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.01-01.50.17:451][571]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.01-01.50.44:195][847]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-01.50.44:204][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-01.50.44:204][847]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 3:50:44 PM)
+[2021.03.01-01.50.44:229][847]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.50.44:564][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.334961s)
+[2021.03.01-01.50.44:564][847]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.03.01-01.50.44:564][847]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A822B78E00), frame # 1124847
+[2021.03.01-01.50.44:564][847]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A7F0370400), frame # 1124847
+[2021.03.01-01.50.44:565][847]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2021.03.01-01.50.44:565][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.336037s)
+[2021.03.01-01.50.44:589][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-01.50.44:593][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-01.50.44:593][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-01.50.44:594][847]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-01.50.44:594][847]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-01.50.44:598][847]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-01.50.44:598][847]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-01.50.44:612][847]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.03.01-01.50.44:612][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-01.50.44:612][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-01.50.44:612][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-01.50.44:613][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-01.50.44:622][847]LogInit: FAudioDevice initialized.
+[2021.03.01-01.50.44:628][847]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.01-01.50.44:636][847]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-20.50.44
+[2021.03.01-01.50.44:636][847]LogWorld: Bringing up level for play took: 0.007277
+[2021.03.01-01.50.44:636][847]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.03.01-01.50.44:638][847]PIE: Server logged in
+[2021.03.01-01.50.44:639][847]PIE: Play in editor total start time 0.435 seconds.
+[2021.03.01-01.50.46:270][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.50.46:270][ 20]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.50.46:270][ 20]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-01.50.46:270][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.50.46:277][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-01.50.46:281][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.50.46:300][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.50.46:313][ 20]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A7F0370400), frame # 1125020
+[2021.03.01-01.50.46:313][ 20]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A822B78E00), frame # 1125020
+[2021.03.01-01.50.46:316][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.03.01-01.50.46:352][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.03.01-01.50.50:404][354]LogSlate: Window 'Message' being destroyed
+[2021.03.01-01.50.50:407][354]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/Interesting/Spheres.Spheres
+(Selecting 'No' will cause all changes to be lost!)
+[2021.03.01-01.50.50:792][354]LogMaterial: Display: Missing cached shader map for material Spheres, compiling. 
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.03.01-01.50.50:817][354]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.01-01.50.50:864][354]LogMaterial: Display: Missing cached shader map for material Spheres, compiling. 
+[2021.03.01-01.50.50:941][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.03.01-01.50.50:946][354]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.01-01.50.51:508][354]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.03.01-01.50.51:508][354]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.03.01-01.50.51:508][354]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.03.01-01.50.51:828][354]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.03.01-01.50.51:828][354]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.03.01-01.50.51:828][354]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.03.01-01.50.51:828][354]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.03.01-01.50.51:828][354]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.03.01-01.50.51:828][354]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.03.01-01.50.51:829][354]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.01-01.50.51:829][354]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.03.01-01.50.51:829][354]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.03.01-01.50.51:829][354]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.03.01-01.50.51:840][354]TextureStreamingBuild: Display: Compiling optional shaders took 0.897 seconds.
+[2021.03.01-01.50.51:870][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.01-01.50.51:901][354]LogSlate: Window 'Spheres' being destroyed
+[2021.03.01-01.50.51:903][354]LogSlate: Window 'Spheres' being destroyed
+[2021.03.01-01.50.51:926][354]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-01.50.51:926][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.50.52:256][381]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.03.01-01.50.52:396][398]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.03.01-01.50.52:404][399]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.03.01-01.50.52:731][438]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.03.01-01.50.52:830][450]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.01-01.52.21:706][618]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-01.52.21:716][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-01.52.21:716][618]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 3:52:21 PM)
+[2021.03.01-01.52.21:739][618]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.52.22:070][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.331407s)
+[2021.03.01-01.52.22:071][618]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.03.01-01.52.22:071][618]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A7EC9C6200), frame # 1126618
+[2021.03.01-01.52.22:071][618]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A70C91C540), frame # 1126618
+[2021.03.01-01.52.22:071][618]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2021.03.01-01.52.22:071][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.332592s)
+[2021.03.01-01.52.22:096][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-01.52.22:098][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-01.52.22:098][618]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-01.52.22:098][618]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-01.52.22:103][618]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-01.52.22:103][618]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-01.52.22:118][618]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.03.01-01.52.22:118][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-01.52.22:118][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-01.52.22:118][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-01.52.22:118][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-01.52.22:128][618]LogInit: FAudioDevice initialized.
+[2021.03.01-01.52.22:135][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.01-01.52.22:143][618]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-20.52.22
+[2021.03.01-01.52.22:144][618]LogWorld: Bringing up level for play took: 0.007691
+[2021.03.01-01.52.22:144][618]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.03.01-01.52.22:145][618]PIE: Server logged in
+[2021.03.01-01.52.22:147][618]PIE: Play in editor total start time 0.431 seconds.
+[2021.03.01-01.53.22:731][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.53.22:731][879]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.53.22:731][879]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-01.53.22:731][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.53.22:735][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-01.53.22:739][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.53.22:761][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.53.22:774][879]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A70C91C540), frame # 1133879
+[2021.03.01-01.53.22:774][879]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A7EC9C6200), frame # 1133879
+[2021.03.01-01.53.22:778][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.03.01-01.53.22:798][880]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.03.01-01.53.35:360][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.01-01.53.40:626][994]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-01.53.40:635][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-01.53.40:635][994]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 3:53:40 PM)
+[2021.03.01-01.53.40:635][994]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.53.40:968][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.332421s)
+[2021.03.01-01.53.40:968][994]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.03.01-01.53.40:968][994]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A7CCB93E00), frame # 1134994
+[2021.03.01-01.53.40:968][994]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A7D7DF6FC0), frame # 1134994
+[2021.03.01-01.53.40:969][994]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.03.01-01.53.40:969][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.333499s)
+[2021.03.01-01.53.40:990][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-01.53.40:992][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-01.53.40:992][994]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-01.53.40:992][994]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-01.53.40:997][994]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-01.53.40:997][994]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-01.53.41:011][994]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.03.01-01.53.41:012][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-01.53.41:012][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-01.53.41:012][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-01.53.41:012][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-01.53.41:022][994]LogInit: FAudioDevice initialized.
+[2021.03.01-01.53.41:031][994]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.01-01.53.41:039][994]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-20.53.41
+[2021.03.01-01.53.41:039][994]LogWorld: Bringing up level for play took: 0.007810
+[2021.03.01-01.53.41:039][994]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.03.01-01.53.41:041][994]PIE: Server logged in
+[2021.03.01-01.53.41:042][994]PIE: Play in editor total start time 0.408 seconds.
+[2021.03.01-01.55.02:241][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.55.02:241][144]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.55.02:241][144]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-01.55.02:241][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.55.02:247][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-01.55.02:251][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.55.02:275][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.55.02:289][144]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A7D7DF6FC0), frame # 1144144
+[2021.03.01-01.55.02:289][144]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A7CCB93E00), frame # 1144144
+[2021.03.01-01.55.02:292][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.01-01.55.02:314][145]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.03.01-01.55.03:506][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-01.55.03:514][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-01.55.03:514][287]PIE: New page: PIE session: ArtAssignment (Feb 28, 2021, 3:55:03 PM)
+[2021.03.01-01.55.03:560][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.55.03:893][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.333212s)
+[2021.03.01-01.55.03:894][287]LogAIModule: Creating AISystem for world ArtAssignment
+[2021.03.01-01.55.03:894][287]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A7D8577E00), frame # 1144287
+[2021.03.01-01.55.03:894][287]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A6BA1CE480), frame # 1144287
+[2021.03.01-01.55.03:894][287]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2021.03.01-01.55.03:894][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArtAssignment.ArtAssignment to /Game/UEDPIE_0_ArtAssignment.ArtAssignment (0.334256s)
+[2021.03.01-01.55.03:918][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.03.01-01.55.03:918][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-01.55.03:919][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-01.55.03:919][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-01.55.03:919][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-01.55.03:923][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-01.55.03:923][287]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-01.55.03:938][287]LogAudioMixer: Display: Using Audio Device Alienware2210 (3- NVIDIA High Definition Audio)
+[2021.03.01-01.55.03:938][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-01.55.03:939][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-01.55.03:939][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-01.55.03:939][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-01.55.03:949][287]LogInit: FAudioDevice initialized.
+[2021.03.01-01.55.03:956][287]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.01-01.55.03:963][287]LogWorld: Bringing World /Game/UEDPIE_0_ArtAssignment.ArtAssignment up for play (max tick rate 0) at 2021.02.28-20.55.03
+[2021.03.01-01.55.03:963][287]LogWorld: Bringing up level for play took: 0.006761
+[2021.03.01-01.55.03:963][287]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.03.01-01.55.03:965][287]PIE: Server logged in
+[2021.03.01-01.55.03:966][287]PIE: Play in editor total start time 0.453 seconds.
+[2021.03.01-01.58.33:591][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.58.33:591][423]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ArtAssignment
+[2021.03.01-01.58.33:591][423]LogWorld: UWorld::CleanupWorld for ArtAssignment, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-01.58.33:592][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.58.33:598][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-01.58.33:602][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-01.58.33:621][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-01.58.33:635][423]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A6BA1CE480), frame # 1152423
+[2021.03.01-01.58.33:635][423]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A7D8577E00), frame # 1152423
+[2021.03.01-01.58.33:638][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.03.01-01.58.33:652][424]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.03.01-01.58.34:855][568]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.01-01.58.39:217][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.03.01-01.58.39:242][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Interesting/Spheres" FILE="Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/Materials/Interesting/Spheres.uasset" SILENT=true
+[2021.03.01-01.58.39:322][ 48]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Saved/Spheres972F10434C414DF731089880C05545F8.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ArtAssignment/Content/Materials/Interesting/Spheres.uasset'
+[2021.03.01-01.58.39:365][ 48]AssetCheck: New page: Asset Save: Spheres
+[2021.03.01-01.58.39:365][ 48]LogContentValidation: Display: Validating Material /Game/Materials/Interesting/Spheres.Spheres
