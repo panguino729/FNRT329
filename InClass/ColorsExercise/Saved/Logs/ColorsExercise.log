@@ -1899,3 +1899,180 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.10-18.56.28:508][899]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.03.10-18.56.28:508][899]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.03.10-18.56.30:876][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.10-18.57.18:890][551]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:25878).
+[2021.03.10-18.57.18:914][552]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:25880).
+[2021.03.10-18.57.18:940][553]LogRenderer: Reallocating scene render targets to support 1208x588 Format 10 NumSamples 1 (Frame:25882).
+[2021.03.10-18.57.18:969][554]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:25884).
+[2021.03.10-18.57.18:995][555]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:25886).
+[2021.03.10-18.57.19:021][556]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:25888).
+[2021.03.10-18.57.19:159][570]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:25892).
+[2021.03.10-18.57.19:201][572]LogRenderer: Reallocating scene render targets to support 1208x624 Format 10 NumSamples 1 (Frame:25896).
+[2021.03.10-18.57.20:380][677]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:25985).
+[2021.03.10-18.57.39:193][487]Cmd: TRANSACTION UNDO
+[2021.03.10-18.57.39:193][487]LogEditorTransaction: Undo Move Actors
+[2021.03.10-18.57.39:201][487]LogMaterial: Display: Missing cached shader map for material Color1, compiling. 
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.10-18.57.39:210][487]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.10-18.57.39:211][487]LogMaterial: Display: Missing cached shader map for material Color2, compiling. 
+[2021.03.10-18.57.39:218][487]LogMaterial: Display: Missing cached shader map for material Color3, compiling. 
+[2021.03.10-18.57.39:809][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.03.10-18.57.39:862][508]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.03.10-18.57.40:004][520]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.03.10-18.57.40:097][528]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.03.10-18.57.40:131][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.03.10-18.57.40:165][534]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.03.10-18.57.40:178][535]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.03.10-18.57.40:187][536]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.03.10-18.57.40:262][543]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.10-18.57.40:278][544]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.03.10-18.57.40:278][544]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.03.10-18.57.40:278][544]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.10-18.57.40:278][544]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.10-18.57.40:559][562]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.03.10-18.57.40:587][564]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.03.10-18.57.40:647][569]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.10-18.57.40:659][570]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.03.10-18.57.40:893][588]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.10-18.57.40:931][591]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.10-18.57.40:942][592]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.10-18.57.40:965][594]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.03.10-18.57.41:025][599]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.10-18.57.41:026][599]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.03.10-18.57.41:026][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.03.10-18.57.41:026][599]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.10-18.57.41:026][599]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.10-18.57.41:093][605]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.03.10-18.57.41:601][635]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.03.10-18.57.41:601][635]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.03.10-18.57.41:601][635]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.10-18.57.41:601][635]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.10-18.57.54:719][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.10-18.57.54:754][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.10-18.57.54:773][108]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap662E48E24FD61752118AB7B72C94AA08.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.10-18.57.54:837][108]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.094
+[2021.03.10-18.57.55:201][108]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap_BuiltDataA95049B1414A06194355BBAB11DCA3FF.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.10-18.57.55:215][108]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.10-18.57.55:215][108]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.10-18.57.55:215][108]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.10-18.58.13:488][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.03.10-18.58.13:509][192]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMapC8A4088B4AB598AD0AAA31A6F86046FC.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.10-18.58.13:936][192]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap_BuiltData0F24D2C94C751B08357A3F9293BC9EBB.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.10-18.58.13:949][192]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.10-18.58.13:949][192]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.10-18.58.13:949][192]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.10-18.58.15:020][283]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.10-18.58.15:028][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.10-18.58.15:034][283]PIE: New page: PIE session: FirstPersonExampleMap (Mar 10, 2021, 8:58:15 AM)
+[2021.03.10-18.58.15:036][283]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.10-18.58.15:038][283]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.10-18.58.15:039][283]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.10-18.58.15:050][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011260s)
+[2021.03.10-18.58.15:051][283]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.10-18.58.15:052][283]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023C9164B400), frame # 40283
+[2021.03.10-18.58.15:052][283]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023CA273C680), frame # 40283
+[2021.03.10-18.58.15:052][283]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2021.03.10-18.58.15:052][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013017s)
+[2021.03.10-18.58.15:062][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.10-18.58.15:066][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.10-18.58.15:066][283]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.10-18.58.15:066][283]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.10-18.58.15:069][283]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.10-18.58.15:069][283]LogAudioMixer: Display: 1: FrontRight
+[2021.03.10-18.58.15:145][283]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.10-18.58.15:145][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.10-18.58.15:145][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.10-18.58.15:145][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.10-18.58.15:146][283]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.10-18.58.15:156][283]LogInit: FAudioDevice initialized.
+[2021.03.10-18.58.15:166][283]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.10-18.58.15:179][283]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.10-13.58.15
+[2021.03.10-18.58.15:180][283]LogWorld: Bringing up level for play took: 0.002682
+[2021.03.10-18.58.15:182][283]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.10-18.58.15:200][283]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.10-18.58.15:204][283]PIE: Server logged in
+[2021.03.10-18.58.15:205][283]PIE: Play in editor total start time 0.182 seconds.
+[2021.03.10-18.58.30:755][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.10-18.58.30:755][ 30]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.10-18.58.30:756][ 30]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-18.58.30:756][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.10-18.58.30:768][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.10-18.58.30:769][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.10-18.58.30:777][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.10-18.58.30:793][ 30]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023CA273C680), frame # 42030
+[2021.03.10-18.58.30:793][ 30]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023C9164B400), frame # 42030
+[2021.03.10-18.58.30:794][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.10-18.58.30:843][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.10-18.58.49:016][125]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2021.03.10-18.59.18:276][372]Cmd: TRANSACTION UNDO
+[2021.03.10-18.59.18:276][372]LogEditorTransaction: Undo Rename Actor
+[2021.03.10-18.59.18:287][372]LogMaterial: Display: Missing cached shader map for material Color1, compiling. 
+[2021.03.10-18.59.18:296][372]LogMaterial: Display: Missing cached shader map for material Color2, compiling. 
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.10-18.59.18:300][372]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.10-18.59.18:302][372]LogMaterial: Display: Missing cached shader map for material Color3, compiling. 
+[2021.03.10-18.59.18:947][395]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.03.10-18.59.18:961][396]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.03.10-18.59.19:135][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.03.10-18.59.19:195][416]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.03.10-18.59.19:258][422]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.03.10-18.59.19:268][423]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.03.10-18.59.19:278][424]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.03.10-18.59.19:286][425]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.03.10-18.59.19:414][437]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.10-18.59.19:415][437]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.03.10-18.59.19:415][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.03.10-18.59.19:415][437]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.10-18.59.19:415][437]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.10-18.59.19:661][456]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.03.10-18.59.19:698][459]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.03.10-18.59.19:763][463]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.03.10-18.59.19:802][464]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.03.10-18.59.19:882][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.10-18.59.19:959][464]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.10-18.59.19:976][464]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.10-18.59.20:000][464]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.10-18.59.20:013][464]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.03.10-18.59.20:046][464]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.10-18.59.20:086][465]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.03.10-18.59.20:086][465]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.03.10-18.59.20:087][465]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.10-18.59.20:087][465]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.10-18.59.20:148][465]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.10-18.59.20:653][508]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.03.10-18.59.20:653][508]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.03.10-18.59.20:653][508]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.03.10-18.59.20:653][508]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.10-18.59.22:035][639]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2021.03.10-18.59.47:687][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.10-18.59.47:708][514]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap8F91B2E245B00427B6C9EC99618154CF.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.10-18.59.48:184][514]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap_BuiltDataF66A476B409DFECDF201C2B2B54842AF.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.10-18.59.48:196][514]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.10-18.59.48:196][514]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.10-18.59.48:197][514]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.10-19.00.34:846][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.10-19.00.34:882][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.10-19.00.34:901][600]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap547B61BF47B2884129FDC99A5F9F9E3B.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.10-19.00.34:966][600]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.095
+[2021.03.10-19.00.35:327][600]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Saved/FirstPersonExampleMap_BuiltData48BBFCBA4A005A99BAA400B2F0887158.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/ColorsExercise/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.10-19.00.35:340][600]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.10-19.00.35:340][600]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.10-19.00.35:340][600]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
