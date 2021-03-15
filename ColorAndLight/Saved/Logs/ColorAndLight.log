@@ -13689,3 +13689,356 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.15-01.17.53:104][506]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2021.03.15-01.18.16:654][516]LogAudioMixer: Display: Audio Buffer Underrun detected.
 [2021.03.15-01.19.04:148][542]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.03.15-01.27.39:859][714]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d70bbf44-9dcd-4470-b2a5-67e1adb8d548}.
+[2021.03.15-01.27.39:859][714]LogTemp: Resetting audio stream to device id 
+[2021.03.15-01.27.39:926][714]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-01.27.39:926][714]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-01.31.14:507][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.03.15-01.31.15:039][345]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane2)
+[2021.03.15-01.31.15:925][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.03.15-01.31.42:451][979]Cmd: DUPLICATE
+[2021.03.15-01.31.42:451][979]Cmd: ACTOR DUPLICATE
+[2021.03.15-01.31.51:784][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.15-01.32.00:977][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.15-01.32.01:442][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.15-01.32.12:955][710]Cmd: EDIT COPY
+[2021.03.15-01.32.13:130][724]Cmd: EDIT PASTE
+[2021.03.15-01.32.30:545][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.15-01.32.39:077][205]Cmd: DUPLICATE
+[2021.03.15-01.32.39:077][205]Cmd: ACTOR DUPLICATE
+[2021.03.15-01.32.53:875][782]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall3)
+[2021.03.15-01.32.58:461][236]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall2)
+[2021.03.15-01.33.00:637][430]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.03.15-01.33.10:991][488]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.03.15-01.33.15:758][973]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall3)
+[2021.03.15-01.33.17:569][156]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall3)
+[2021.03.15-01.33.18:031][203]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall3)
+[2021.03.15-01.33.18:485][250]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.03.15-01.33.21:134][531]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.03.15-01.33.22:142][630]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall2)
+[2021.03.15-01.33.25:692][997]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Wall1)
+[2021.03.15-01.33.28:060][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.03.15-01.33.29:016][326]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.15-01.33.29:038][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-01.33.29:039][326]PIE: New page: PIE session: FirstPersonExampleMap (Mar 14, 2021, 5:33:29 PM)
+[2021.03.15-01.33.29:043][326]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.33.29:088][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044901s)
+[2021.03.15-01.33.29:090][326]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.15-01.33.29:091][326]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FD3810600), frame # 743326
+[2021.03.15-01.33.29:091][326]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019E12A7F740), frame # 743326
+[2021.03.15-01.33.29:092][326]LogPlayLevel: PIE: World Init took: (0.003836s)
+[2021.03.15-01.33.29:092][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.049389s)
+[2021.03.15-01.33.29:169][326]LogUObjectHash: Compacting FUObjectHashTables data took  10.37ms
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.15-01.33.29:558][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.15-01.33.29:559][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.15-01.33.29:560][326]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.15-01.33.29:560][326]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.15-01.33.29:573][326]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-01.33.29:573][326]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-01.33.29:617][326]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.15-01.33.29:619][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.15-01.33.29:619][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.15-01.33.29:619][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.15-01.33.29:624][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.15-01.33.29:631][326]LogInit: FAudioDevice initialized.
+[2021.03.15-01.33.29:654][326]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.15-01.33.29:660][326]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.14-21.33.29
+[2021.03.15-01.33.29:660][326]LogWorld: Bringing up level for play took: 0.004879
+[2021.03.15-01.33.29:661][326]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2021.03.15-01.33.29:666][326]PIE: Server logged in
+[2021.03.15-01.33.29:667][326]PIE: Play in editor total start time 0.63 seconds.
+[2021.03.15-01.33.40:559][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.33.40:559][368]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.33.40:559][368]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-01.33.40:560][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.33.40:568][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-01.33.40:573][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.33.40:624][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.33.40:625][368]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019E12A7F740), frame # 744368
+[2021.03.15-01.33.40:625][368]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FD3810600), frame # 744368
+[2021.03.15-01.33.40:628][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.03.15-01.33.40:679][369]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2021.03.15-01.35.33:219][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.03.15-01.35.36:296][823]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ColorAndLight/Saved/FirstPersonExampleMap_Auto044790C644371C9AE221EF086FE577838.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ColorAndLight/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto0.umap'
+[2021.03.15-01.35.36:348][823]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.151
+[2021.03.15-01.35.36:348][823]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.151
+[2021.03.15-01.35.41:267][309]MapCheck: New page: Map Check
+[2021.03.15-01.35.41:287][309]LightingResults: New page: Lighting Build - Mar 14, 2021, 5:35:41 PM
+[2021.03.15-01.35.41:411][309]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.15-01.35.41:418][309]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.15-01.35.41:422][309]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.15-01.35.41:434][309]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.15-01.35.41:434][309]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3644
+[2021.03.15-01.35.41:535][309]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.15-01.35.41:535][309]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.15-01.35.41:535][309]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.15-01.35.41:535][309]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.15-01.35.41:535][309]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.15-01.35.41:747][309]LogEditorBuildUtils: Build time 0:00
+[2021.03.15-01.35.41:817][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.03.15-01.39.36:583][879]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2021.03.15-01.39.36:709][879]DumpUnbuiltLightIteractions
+[2021.03.15-01.39.36:709][879]Lights with unbuilt interactions: 1
+[2021.03.15-01.39.36:709][879]    Light LightSource
+[2021.03.15-01.39.36:709][879]
+[2021.03.15-01.39.36:709][879]Primitives with unbuilt interactions: 6
+[2021.03.15-01.39.36:709][879]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StreetLamp8.StaticMeshComponent0
+[2021.03.15-01.39.36:709][879]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.StreetLamp7.StaticMeshComponent0
+[2021.03.15-01.39.36:709][879]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ParkBench9.StaticMeshComponent0
+[2021.03.15-01.39.36:709][879]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ParkBench12.StaticMeshComponent0
+[2021.03.15-01.39.36:710][879]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ParkBench11.StaticMeshComponent0
+[2021.03.15-01.39.36:710][879]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ParkBench10.StaticMeshComponent0
+[2021.03.15-01.39.37:003][880]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.15-01.39.37:004][880]MapCheck: New page: FirstPersonExampleMap - Mar 14, 2021, 5:39:37 PM
+[2021.03.15-01.39.37:026][880]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.03.15-01.39.37:028][880]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 24.486ms to complete.
+[2021.03.15-01.39.38:181][937]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.15-01.39.38:196][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-01.39.38:197][937]PIE: New page: PIE session: FirstPersonExampleMap (Mar 14, 2021, 5:39:38 PM)
+[2021.03.15-01.39.38:236][937]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.39.38:262][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025826s)
+[2021.03.15-01.39.38:264][937]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.15-01.39.38:264][937]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A083D27400), frame # 771937
+[2021.03.15-01.39.38:264][937]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019E61600A40), frame # 771937
+[2021.03.15-01.39.38:264][937]LogPlayLevel: PIE: World Init took: (0.002370s)
+[2021.03.15-01.39.38:264][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028427s)
+[2021.03.15-01.39.38:291][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.15-01.39.38:330][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.15-01.39.38:331][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.15-01.39.38:331][937]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.15-01.39.38:331][937]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.15-01.39.38:343][937]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-01.39.38:343][937]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-01.39.38:384][937]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.15-01.39.38:385][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.15-01.39.38:385][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.15-01.39.38:385][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.15-01.39.38:389][937]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.15-01.39.38:403][937]LogInit: FAudioDevice initialized.
+[2021.03.15-01.39.38:419][937]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.15-01.39.38:423][937]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.14-21.39.38
+[2021.03.15-01.39.38:424][937]LogWorld: Bringing up level for play took: 0.004222
+[2021.03.15-01.39.38:424][937]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2021.03.15-01.39.38:430][937]PIE: Server logged in
+[2021.03.15-01.39.38:432][937]PIE: Play in editor total start time 0.236 seconds.
+[2021.03.15-01.39.58:218][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.39.58:218][691]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.39.58:219][691]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-01.39.58:219][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.39.58:232][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-01.39.58:237][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.39.58:266][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.39.58:287][691]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019E61600A40), frame # 772691
+[2021.03.15-01.39.58:287][691]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A083D27400), frame # 772691
+[2021.03.15-01.39.58:290][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.03.15-01.39.58:342][692]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2021.03.15-01.40.01:354][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.03.15-01.40.01:484][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.15-01.40.05:252][997]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ColorAndLight/Saved/FirstPersonExampleMap8628EFE1477EC7CE5A163EA29B4B37D7.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ColorAndLight/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.15-01.40.05:524][997]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 4.091
+[2021.03.15-01.40.07:449][997]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/fnrt329/ColorAndLight/Saved/FirstPersonExampleMap_BuiltDataA653D84648484ABDA766D5AC155D29AC.tmp' to 'Z:/IGMProfile/Documents/GitHub/fnrt329/ColorAndLight/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.15-01.40.07:821][997]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.15-01.40.07:821][997]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.15-01.40.07:821][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.15-01.40.18:847][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.15-01.40.18:879][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-01.40.18:879][ 31]PIE: New page: PIE session: FirstPersonExampleMap (Mar 14, 2021, 5:40:18 PM)
+[2021.03.15-01.40.18:916][ 31]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.40.18:940][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023482s)
+[2021.03.15-01.40.18:941][ 31]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.15-01.40.18:941][ 31]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F9AECDE00), frame # 773031
+[2021.03.15-01.40.18:941][ 31]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019E283BC680), frame # 773031
+[2021.03.15-01.40.18:941][ 31]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2021.03.15-01.40.18:941][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025302s)
+[2021.03.15-01.40.18:997][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.15-01.40.19:015][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.15-01.40.19:015][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.15-01.40.19:016][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.15-01.40.19:016][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.15-01.40.19:029][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-01.40.19:029][ 31]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-01.40.19:066][ 31]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.15-01.40.19:067][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.15-01.40.19:067][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.15-01.40.19:067][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.15-01.40.19:068][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.15-01.40.19:087][ 31]LogInit: FAudioDevice initialized.
+[2021.03.15-01.40.19:097][ 31]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.15-01.40.19:100][ 31]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.14-21.40.19
+[2021.03.15-01.40.19:100][ 31]LogWorld: Bringing up level for play took: 0.002635
+[2021.03.15-01.40.19:100][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2021.03.15-01.40.19:103][ 31]PIE: Server logged in
+[2021.03.15-01.40.19:104][ 31]PIE: Play in editor total start time 0.226 seconds.
+[2021.03.15-01.40.36:007][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.40.36:007][339]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.40.36:007][339]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-01.40.36:008][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.40.36:022][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-01.40.36:028][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.40.36:066][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.40.36:067][339]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019E283BC680), frame # 774339
+[2021.03.15-01.40.36:067][339]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F9AECDE00), frame # 774339
+[2021.03.15-01.40.36:071][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.15-01.40.36:137][340]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2021.03.15-01.40.39:169][641]MapCheck: New page: Map Check
+[2021.03.15-01.40.39:188][641]LightingResults: New page: Lighting Build - Mar 14, 2021, 5:40:39 PM
+[2021.03.15-01.40.39:249][641]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.15-01.40.39:252][641]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.15-01.40.39:252][641]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.15-01.40.39:253][641]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.15-01.40.39:254][641]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3644
+[2021.03.15-01.40.39:328][641]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.15-01.40.39:328][641]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.15-01.40.39:328][641]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.15-01.40.39:328][641]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.15-01.40.39:328][641]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.15-01.40.39:471][641]LogEditorBuildUtils: Build time 0:00
+[2021.03.15-01.40.39:578][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.03.15-01.41.37:372][766]LightingResults: Warning: StreetLamp Object has overlapping UVs.
+[2021.03.15-01.41.37:372][766]LightingResults: StreetLamp Lightmap UV are overlapping by 19.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.03.15-01.41.37:475][767]LightingResults: Warning: StreetLamp Object has overlapping UVs.
+[2021.03.15-01.41.37:475][767]LightingResults: StreetLamp Lightmap UV are overlapping by 19.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.03.15-01.41.39:057][903]LightingResults: Warning: StreetLamp Object has overlapping UVs.
+[2021.03.15-01.41.39:168][904]LightingResults: StreetLamp Lightmap UV are overlapping by 19.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.03.15-01.41.39:310][911]LightingResults: Warning: StreetLamp Object has overlapping UVs.
+[2021.03.15-01.41.39:310][911]LightingResults: StreetLamp Lightmap UV are overlapping by 19.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.03.15-01.41.41:072][ 61]LightingResults: Warning: StreetLamp Object has overlapping UVs.
+[2021.03.15-01.41.41:072][ 61]LightingResults: StreetLamp Lightmap UV are overlapping by 19.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.03.15-01.41.42:447][178]LightingResults: Warning: StreetLamp Object has overlapping UVs.
+[2021.03.15-01.41.42:447][178]LightingResults: StreetLamp Lightmap UV are overlapping by 19.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.03.15-01.41.43:049][221]Job is a success!
+[2021.03.15-01.41.43:336][222]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.032s
+[2021.03.15-01.41.43:336][222]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.15-01.41.43:336][222]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2021.03.15-01.41.43:337][222]LogVolumetricLightmapImport:      Bricks at depth
+[2021.03.15-01.41.43:337][222]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2021.03.15-01.41.43:337][222]LogVolumetricLightmapImport:          1: 8.2% covering 9.4% of volume
+[2021.03.15-01.41.43:337][222]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2021.03.15-01.41.43:337][222]LogVolumetricLightmapImport:      Bricks in each level
+[2021.03.15-01.41.43:337][222]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 73 bricks 	 100.0% (Persistent Level)
+[2021.03.15-01.41.44:300][222]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.03.15-01.41.44:300][222]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.03.15-01.41.44:300][222]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.03.15-01.41.44:300][222]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2021.03.15-01.41.44:301][222]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.03.15-01.41.44:301][222]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.03.15-01.41.44:502][222]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 32X32)
+[2021.03.15-01.41.44:679][222]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 1024X1024)
+[2021.03.15-01.41.44:679][222]Lightmass on IGM2000-29: 41.2 sec total, 2.50 sec importing, 4.74 sec setup, 14.6 sec photons, 18.4 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 1:41 min total, 36.4 sec processing.
+[2021.03.15-01.41.44:717][222]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 22 meshes in 3 LightmapResourceClusters (7.3 Meshes per cluster).
+[2021.03.15-01.41.44:760][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.03.15-01.41.44:804][222]LogStaticLightingSystem: Illumination: 1:05 min (877 ms encoding lightmaps, 307 ms encoding shadowmaps)
+[2021.03.15-01.41.44:804][222]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.03.15-01.41.44:804][222]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.03.15-01.41.45:384][222]DumpUnbuiltLightIteractions
+[2021.03.15-01.41.45:384][222]Lights with unbuilt interactions: 0
+[2021.03.15-01.41.45:384][222]
+[2021.03.15-01.41.45:384][222]Primitives with unbuilt interactions: 0
+[2021.03.15-01.41.45:571][223]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.15-01.41.45:571][223]MapCheck: New page: FirstPersonExampleMap - Mar 14, 2021, 5:41:45 PM
+[2021.03.15-01.41.45:572][223]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.92ms to complete.
+[2021.03.15-01.45.10:361][327]LogSlate: Window 'Message Log' being destroyed
+[2021.03.15-01.45.10:370][327]LogSlate: Window 'Message Log' being destroyed
+[2021.03.15-01.45.11:313][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.15-01.45.11:330][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-01.45.11:330][434]PIE: New page: PIE session: FirstPersonExampleMap (Mar 14, 2021, 5:45:11 PM)
+[2021.03.15-01.45.11:375][434]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.45.11:409][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032817s)
+[2021.03.15-01.45.11:411][434]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.15-01.45.11:411][434]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F5373DA00), frame # 804434
+[2021.03.15-01.45.11:411][434]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019EBBA08F40), frame # 804434
+[2021.03.15-01.45.11:411][434]LogPlayLevel: PIE: World Init took: (0.002242s)
+[2021.03.15-01.45.11:411][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035351s)
+[2021.03.15-01.45.11:454][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.15-01.45.11:481][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.15-01.45.11:481][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.15-01.45.11:482][434]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.15-01.45.11:482][434]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.15-01.45.11:498][434]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-01.45.11:498][434]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-01.45.11:537][434]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.15-01.45.11:539][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.15-01.45.11:539][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.15-01.45.11:539][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.15-01.45.11:539][434]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.15-01.45.11:559][434]LogInit: FAudioDevice initialized.
+[2021.03.15-01.45.11:574][434]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.15-01.45.11:577][434]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.14-21.45.11
+[2021.03.15-01.45.11:578][434]LogWorld: Bringing up level for play took: 0.002910
+[2021.03.15-01.45.11:578][434]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2021.03.15-01.45.11:582][434]PIE: Server logged in
+[2021.03.15-01.45.11:584][434]PIE: Play in editor total start time 0.256 seconds.
+[2021.03.15-01.45.22:316][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.45.22:316][659]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.45.22:316][659]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-01.45.22:317][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.45.22:331][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-01.45.22:336][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.15-01.45.22:357][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-01.45.22:385][659]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019EBBA08F40), frame # 805659
+[2021.03.15-01.45.22:385][659]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F5373DA00), frame # 805659
+[2021.03.15-01.45.22:387][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.03.15-01.45.22:605][660]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2021.03.15-01.45.27:047][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.15-01.45.27:679][118]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2021.03.15-01.45.28:926][215]Cmd: EDIT COPY
+[2021.03.15-01.45.29:093][227]Cmd: EDIT PASTE
+[2021.03.15-01.45.51:563][139]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.15-01.45.51:590][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-01.45.51:590][139]PIE: New page: PIE session: FirstPersonExampleMap (Mar 14, 2021, 5:45:51 PM)
+[2021.03.15-01.45.51:594][139]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.15-01.45.51:620][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025865s)
+[2021.03.15-01.45.51:622][139]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.15-01.45.51:622][139]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019E41A8F200), frame # 808139
+[2021.03.15-01.45.51:622][139]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019E99BFA980), frame # 808139
+[2021.03.15-01.45.51:622][139]LogPlayLevel: PIE: World Init took: (0.002203s)
+[2021.03.15-01.45.51:622][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028335s)
+[2021.03.15-01.45.51:651][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.03.15-01.45.51:669][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.15-01.45.51:669][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.15-01.45.51:669][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.15-01.45.51:669][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.15-01.45.51:669][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.15-01.45.51:670][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.15-01.45.51:670][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.15-01.45.51:670][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.15-01.45.51:670][139]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.15-01.45.51:671][139]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.15-01.45.51:683][139]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.15-01.45.51:683][139]LogAudioMixer: Display: 1: FrontRight
+[2021.03.15-01.45.51:722][139]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.15-01.45.51:722][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.15-01.45.51:723][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.15-01.45.51:723][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.15-01.45.51:723][139]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.15-01.45.51:743][139]LogInit: FAudioDevice initialized.
+[2021.03.15-01.45.51:753][139]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.15-01.45.51:756][139]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.14-21.45.51
+[2021.03.15-01.45.51:756][139]LogWorld: Bringing up level for play took: 0.002523
+[2021.03.15-01.45.51:757][139]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2021.03.15-01.45.51:759][139]PIE: Server logged in
+[2021.03.15-01.45.51:761][139]PIE: Play in editor total start time 0.172 seconds.
