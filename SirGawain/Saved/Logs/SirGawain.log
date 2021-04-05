@@ -1818,3 +1818,462 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.05-00.48.45:850][891]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.05-00.48.45:850][891]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
 [2021.04.05-00.48.45:850][891]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SirGawain/Levels/CityStart_BuiltData.CityStart_BuiltData
+[2021.04.05-00.49.10:292][295]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-00.49.10:310][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-00.49.10:310][295]PIE: New page: PIE session: CityStart (Apr 4, 2021, 4:49:10 PM)
+[2021.04.05-00.49.10:340][295]LogPlayLevel: Creating play world package: /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-00.49.10:355][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015606s)
+[2021.04.05-00.49.10:357][295]LogAIModule: Creating AISystem for world CityStart
+[2021.04.05-00.49.10:357][295]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002182BF17400), frame # 89295
+[2021.04.05-00.49.10:357][295]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021802F88900), frame # 89295
+[2021.04.05-00.49.10:358][295]LogPlayLevel: PIE: World Init took: (0.002454s)
+[2021.04.05-00.49.10:358][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SirGawain/Levels/CityStart.CityStart to /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart (0.018368s)
+[2021.04.05-00.49.10:387][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-00.49.10:389][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-00.49.10:390][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-00.49.10:390][295]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-00.49.10:390][295]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-00.49.10:397][295]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-00.49.10:397][295]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-00.49.10:428][295]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.05-00.49.10:428][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-00.49.10:428][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-00.49.10:428][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-00.49.10:429][295]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-00.49.10:449][295]LogInit: FAudioDevice initialized.
+[2021.04.05-00.49.10:456][295]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.05-00.49.10:459][295]LogWorld: Bringing World /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart up for play (max tick rate 60) at 2021.04.04-20.49.10
+[2021.04.05-00.49.10:460][295]LogWorld: Bringing up level for play took: 0.001944
+[2021.04.05-00.49.10:460][295]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.05-00.49.10:463][295]PIE: Server logged in
+[2021.04.05-00.49.10:464][295]PIE: Play in editor total start time 0.159 seconds.
+[2021.04.05-00.49.14:605][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-00.49.14:605][531]LogWorld: BeginTearingDown for /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-00.49.14:605][531]LogWorld: UWorld::CleanupWorld for CityStart, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-00.49.14:605][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-00.49.14:613][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-00.49.14:617][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-00.49.14:666][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-00.49.14:668][531]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021802F88900), frame # 89531
+[2021.04.05-00.49.14:668][531]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002182BF17400), frame # 89531
+[2021.04.05-00.49.14:671][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.05-00.49.14:711][532]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.05-00.52.36:319][180]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-00.53.57:719][912]LogEditorTransaction: Undo Edit Top
+[2021.04.05-00.53.57:898][914]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.57:898][914]LogEditorTransaction: Undo Edit Left
+[2021.04.05-00.53.58:069][916]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.58:069][916]LogEditorTransaction: Undo Changed Anchors
+[2021.04.05-00.53.58:235][918]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.58:235][918]LogEditorTransaction: Undo Changed Anchors
+[2021.04.05-00.53.58:464][924]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.58:464][924]LogEditorTransaction: Undo Move Widget
+[2021.04.05-00.53.58:937][939]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.58:937][939]LogEditorTransaction: Undo Edit Top
+[2021.04.05-00.53.59:335][951]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.59:335][951]LogEditorTransaction: Undo Edit Left
+[2021.04.05-00.53.59:717][964]Cmd: TRANSACTION UNDO
+[2021.04.05-00.53.59:717][964]LogEditorTransaction: Undo Changed Anchors
+[2021.04.05-00.54.00:184][980]Cmd: TRANSACTION UNDO
+[2021.04.05-00.54.00:185][980]LogEditorTransaction: Undo Changed Anchors
+[2021.04.05-00.54.00:578][994]Cmd: TRANSACTION UNDO
+[2021.04.05-00.54.00:578][994]LogEditorTransaction: Undo Changed Anchors
+[2021.04.05-00.54.01:145][ 15]Cmd: TRANSACTION UNDO
+[2021.04.05-00.54.01:145][ 15]LogEditorTransaction: Undo Edit Left
+[2021.04.05-00.54.01:750][ 37]Cmd: TRANSACTION UNDO
+[2021.04.05-00.54.01:750][ 37]LogEditorTransaction: Undo Edit Top
+[2021.04.05-00.54.02:266][ 56]Cmd: TRANSACTION UNDO
+[2021.04.05-00.54.02:267][ 56]LogEditorTransaction: Undo Move Widget
+[2021.04.05-00.54.02:783][ 73]Cmd: TRANSACTION UNDO
+[2021.04.05-00.54.02:783][ 73]LogEditorTransaction: Undo Resize Widget
+[2021.04.05-00.55.09:911][189]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-00.55.24:741][696]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-00.59.24:685][846]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.00.55:589][864]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.01.02:745][102]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.01.28:859][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.01.32:076][128]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.01.39:095][352]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.01.51:977][795]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.02.32:133][136]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.06.32:353][673]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2021.04.05-01.06.32:363][673]LogSlate: Took 0.007745 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.04.05-01.06.35:687][787]LogEditorTransaction: Undo Add Widget
+[2021.04.05-01.07.41:531][ 30]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.07.56:145][437]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.09.25:979][494]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.10.40:184][936]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidgetC9F4DA7B451D9926570B1D8C82380DD2.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.10.40:217][936]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.10.40:217][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.10.56:218][506]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget50F655BD43AEE7BE78DC5188121D0077.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.10.56:246][506]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.10.56:246][506]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.12.59:104][744]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.05-01.13.05:773][987]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget7FFF556843D63151893BCEAE55A4B911.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.13.05:806][987]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.13.05:806][987]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.14.30:817][190]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget2F94F74347A90C1313F8E48BAED4C006.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.14.30:852][190]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.14.30:852][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.15.21:525][290]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget272B6B0043BB0CEE584CA296D95CD477.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.15.21:559][290]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.15.21:559][290]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.15.22:534][322]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget4195C20943802A3838459080D8D5CD6B.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.15.22:561][322]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.15.22:561][322]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.15.23:486][358]BlueprintLog: New page: Compile FirstTextWidget
+[2021.04.05-01.15.23:712][358]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.04.05-01.17.00:588][966]LogEditorTransaction: Undo Move Node
+[2021.04.05-01.17.01:336][983]LogEditorTransaction: Undo Add Node
+[2021.04.05-01.17.20:719][689]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget9A5964A0449B5590507953810AA37941.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.17.20:753][689]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.17.20:753][689]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.17.22:074][741]BlueprintLog: New page: Compile FirstTextWidget
+[2021.04.05-01.17.22:153][741]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.04.05-01.17.43:294][557]LogEditorTransaction: Undo Add Node
+[2021.04.05-01.18.35:609][522]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget7091952A43D59D1688C9B28E7883851A.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.18.35:640][522]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.18.35:640][522]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.18.36:324][547]BlueprintLog: New page: Compile FirstTextWidget
+[2021.04.05-01.18.36:390][547]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.04.05-01.20.00:891][745]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SirGawain/Levels/CityStart.CityStart:PersistentLevel.CityStart
+[2021.04.05-01.20.28:662][867]LogSlate: Window 'CityStart' being destroyed
+[2021.04.05-01.20.28:686][867]LogSlate: Window 'CityStart' being destroyed
+[2021.04.05-01.20.28:704][867]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.20.28:704][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.20.28:734][867]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.20.28:734][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.20.28:817][867]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.20.28:817][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.20.29:824][915]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.04.05-01.20.29:886][915]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart3578EA2E4FE80F96FD61828D3EBF1596.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.20.30:173][915]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart_BuiltDataB5594733441731A40E5E4CA2224EB04D.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart_BuiltData.uasset'
+[2021.04.05-01.20.30:200][915]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.05-01.20.30:200][915]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.20.30:200][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SirGawain/Levels/CityStart_BuiltData.CityStart_BuiltData
+[2021.04.05-01.20.51:587][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.05-01.20.51:853][918]Cmd: TRANSACTION UNDO
+[2021.04.05-01.20.51:853][918]LogEditorTransaction: Undo Clicking on Actors
+[2021.04.05-01.21.03:849][527]LogSlate: Window 'Undo History' being destroyed
+[2021.04.05-01.21.03:879][527]LogSlate: Window 'Undo History' being destroyed
+[2021.04.05-01.21.09:893][825]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SirGawain/Levels/CityStart.CityStart:PersistentLevel.CityStart
+[2021.04.05-01.22.26:866][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.04.05-01.22.26:923][700]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart224C37914511A65D7C91D49558C12535.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.22.26:950][700]LogFileHelpers: Saving map 'CityStart' took 0.190
+[2021.04.05-01.22.26:975][700]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.22.26:975][700]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.22.28:080][740]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.22.28:143][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.04.05-01.23.12:676][277]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2021.04.05-01.23.12:794][277]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart08A2F5DD4EFD8FC64E6977BE67D46003.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.23.12:851][277]LogFileHelpers: Saving map 'CityStart' took 0.243
+[2021.04.05-01.23.12:904][277]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.23.12:904][277]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.23.13:471][288]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.23.13:566][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.04.05-01.23.22:852][659]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-01.23.22:874][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-01.23.22:874][659]PIE: New page: PIE session: CityStart (Apr 4, 2021, 5:23:22 PM)
+[2021.04.05-01.23.22:874][659]LogPlayLevel: Creating play world package: /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.23.22:899][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024698s)
+[2021.04.05-01.23.22:901][659]LogAIModule: Creating AISystem for world CityStart
+[2021.04.05-01.23.22:901][659]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218056F9600), frame # 167659
+[2021.04.05-01.23.22:901][659]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217FDB4E5C0), frame # 167659
+[2021.04.05-01.23.22:902][659]LogPlayLevel: PIE: World Init took: (0.002550s)
+[2021.04.05-01.23.22:902][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SirGawain/Levels/CityStart.CityStart to /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart (0.027488s)
+[2021.04.05-01.23.22:936][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-01.23.22:939][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-01.23.22:939][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-01.23.22:940][659]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-01.23.22:940][659]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-01.23.22:945][659]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-01.23.22:945][659]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-01.23.22:979][659]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.05-01.23.22:979][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-01.23.22:979][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-01.23.22:979][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-01.23.22:980][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-01.23.23:004][659]LogInit: FAudioDevice initialized.
+[2021.04.05-01.23.23:022][659]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.05-01.23.23:026][659]LogWorld: Bringing World /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart up for play (max tick rate 60) at 2021.04.04-21.23.23
+[2021.04.05-01.23.23:026][659]LogWorld: Bringing up level for play took: 0.002214
+[2021.04.05-01.23.23:026][659]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.05-01.23.23:030][659]PIE: Server logged in
+[2021.04.05-01.23.23:031][659]PIE: Play in editor total start time 0.162 seconds.
+[2021.04.05-01.23.31:949][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.23.31:949][171]LogWorld: BeginTearingDown for /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.23.31:949][171]LogWorld: UWorld::CleanupWorld for CityStart, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.23.31:950][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.23.31:962][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-01.23.31:967][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.23.32:029][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.23.32:030][171]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217FDB4E5C0), frame # 168171
+[2021.04.05-01.23.32:031][171]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218056F9600), frame # 168171
+[2021.04.05-01.23.32:034][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.04.05-01.23.32:085][172]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.05-01.24.18:652][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.05-01.24.18:708][123]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStartC6D927C1482E37646DDDECB9FC87B459.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.24.18:737][123]LogFileHelpers: Saving map 'CityStart' took 0.126
+[2021.04.05-01.24.18:760][123]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.24.18:760][123]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.25.27:440][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.05-01.25.27:499][856]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStartAF70A6644302D28739BFC98410B578C9.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.25.27:526][856]LogFileHelpers: Saving map 'CityStart' took 0.125
+[2021.04.05-01.25.27:547][856]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.25.27:547][856]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.25.34:508][137]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.25.34:577][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.05-01.26.15:091][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.04.05-01.26.15:170][685]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart21DCE6434F3BB2F840FB1B97E88CA950.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.26.15:203][685]LogFileHelpers: Saving map 'CityStart' took 0.160
+[2021.04.05-01.26.15:230][685]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.26.15:230][685]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.26.34:272][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.04.05-01.26.34:340][341]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart53F7CD4F40A43A67AC6A07BD5E88E2E0.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.26.34:373][341]LogFileHelpers: Saving map 'CityStart' took 0.144
+[2021.04.05-01.26.34:398][341]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.26.34:398][341]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.26.36:010][402]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.26.36:078][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.04.05-01.26.39:106][540]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-01.26.39:127][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-01.26.39:128][540]PIE: New page: PIE session: CityStart (Apr 4, 2021, 5:26:39 PM)
+[2021.04.05-01.26.39:128][540]LogPlayLevel: Creating play world package: /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.26.39:152][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023767s)
+[2021.04.05-01.26.39:153][540]LogAIModule: Creating AISystem for world CityStart
+[2021.04.05-01.26.39:154][540]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000217A919D800), frame # 175540
+[2021.04.05-01.26.39:154][540]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217E7AFC2C0), frame # 175540
+[2021.04.05-01.26.39:154][540]LogPlayLevel: PIE: World Init took: (0.002424s)
+[2021.04.05-01.26.39:154][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SirGawain/Levels/CityStart.CityStart to /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart (0.026462s)
+[2021.04.05-01.26.39:195][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-01.26.39:196][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-01.26.39:196][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-01.26.39:197][540]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-01.26.39:197][540]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-01.26.39:201][540]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-01.26.39:201][540]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-01.26.39:236][540]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.05-01.26.39:236][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-01.26.39:236][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-01.26.39:236][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-01.26.39:237][540]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-01.26.39:264][540]LogInit: FAudioDevice initialized.
+[2021.04.05-01.26.39:280][540]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.05-01.26.39:283][540]LogWorld: Bringing World /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart up for play (max tick rate 60) at 2021.04.04-21.26.39
+[2021.04.05-01.26.39:284][540]LogWorld: Bringing up level for play took: 0.002199
+[2021.04.05-01.26.39:284][540]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.05-01.26.39:287][540]PIE: Server logged in
+[2021.04.05-01.26.39:288][540]PIE: Play in editor total start time 0.165 seconds.
+[2021.04.05-01.26.41:645][678]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.04.05-01.26.45:097][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.26.45:097][881]LogWorld: BeginTearingDown for /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.26.45:097][881]LogWorld: UWorld::CleanupWorld for CityStart, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.26.45:097][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.26.45:107][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-01.26.45:111][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.26.45:169][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.26.45:170][881]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217E7AFC2C0), frame # 175881
+[2021.04.05-01.26.45:171][881]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217A919D800), frame # 175881
+[2021.04.05-01.26.45:174][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.04.05-01.26.45:219][882]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.05-01.28.20:129][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.04.05-01.28.20:196][213]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStartA1CF64D24CE7DBE745C2C6824C950E5E.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.28.20:230][213]LogFileHelpers: Saving map 'CityStart' took 0.147
+[2021.04.05-01.28.20:261][213]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.28.20:261][213]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.28.21:048][238]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.28.21:127][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.04.05-01.28.24:871][388]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-01.28.24:895][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-01.28.24:896][388]PIE: New page: PIE session: CityStart (Apr 4, 2021, 5:28:24 PM)
+[2021.04.05-01.28.24:896][388]LogPlayLevel: Creating play world package: /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.28.24:922][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026641s)
+[2021.04.05-01.28.24:924][388]LogAIModule: Creating AISystem for world CityStart
+[2021.04.05-01.28.24:924][388]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218056F9600), frame # 179388
+[2021.04.05-01.28.24:925][388]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002171501A980), frame # 179388
+[2021.04.05-01.28.24:925][388]LogPlayLevel: PIE: World Init took: (0.003016s)
+[2021.04.05-01.28.24:925][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SirGawain/Levels/CityStart.CityStart to /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart (0.030039s)
+[2021.04.05-01.28.24:971][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-01.28.24:972][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-01.28.24:972][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-01.28.24:973][388]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-01.28.24:973][388]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-01.28.24:977][388]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-01.28.24:977][388]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-01.28.25:013][388]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.05-01.28.25:013][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-01.28.25:013][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-01.28.25:013][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-01.28.25:014][388]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-01.28.25:038][388]LogInit: FAudioDevice initialized.
+[2021.04.05-01.28.25:049][388]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.05-01.28.25:053][388]LogWorld: Bringing World /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart up for play (max tick rate 60) at 2021.04.04-21.28.25
+[2021.04.05-01.28.25:053][388]LogWorld: Bringing up level for play took: 0.002475
+[2021.04.05-01.28.25:053][388]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.04.05-01.28.25:057][388]PIE: Server logged in
+[2021.04.05-01.28.25:058][388]PIE: Play in editor total start time 0.17 seconds.
+[2021.04.05-01.28.27:199][510]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.04.05-01.28.37:227][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.28.37:227][ 99]LogWorld: BeginTearingDown for /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.28.37:228][ 99]LogWorld: UWorld::CleanupWorld for CityStart, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.28.37:228][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.28.37:238][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-01.28.37:243][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.28.37:312][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.28.37:313][ 99]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002171501A980), frame # 180099
+[2021.04.05-01.28.37:314][ 99]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218056F9600), frame # 180099
+[2021.04.05-01.28.37:317][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.04.05-01.28.37:367][100]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.04.05-01.29.05:590][638]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2021.04.05-01.29.08:325][652]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2021.04.05-01.29.08:974][653]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.30.24:008][957]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidget1E375CDA40D6D49F2718A0882DBDC0C7.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.30.24:035][957]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.30.24:035][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.30.24:557][972]BlueprintLog: New page: Compile FirstTextWidget
+[2021.04.05-01.30.24:623][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.04.05-01.30.27:702][ 58]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.30.27:774][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.04.05-01.30.31:399][216]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.05-01.30.31:424][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.05-01.30.31:424][216]PIE: New page: PIE session: CityStart (Apr 4, 2021, 5:30:31 PM)
+[2021.04.05-01.30.31:424][216]LogPlayLevel: Creating play world package: /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.30.31:446][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022272s)
+[2021.04.05-01.30.31:448][216]LogAIModule: Creating AISystem for world CityStart
+[2021.04.05-01.30.31:448][216]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002192C7AE000), frame # 183216
+[2021.04.05-01.30.31:448][216]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218012E8680), frame # 183216
+[2021.04.05-01.30.31:449][216]LogPlayLevel: PIE: World Init took: (0.002175s)
+[2021.04.05-01.30.31:449][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SirGawain/Levels/CityStart.CityStart to /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart (0.024747s)
+[2021.04.05-01.30.31:494][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.05-01.30.31:495][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.05-01.30.31:495][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.05-01.30.31:496][216]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.05-01.30.31:496][216]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.05-01.30.31:499][216]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.05-01.30.31:499][216]LogAudioMixer: Display: 1: FrontRight
+[2021.04.05-01.30.31:532][216]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.05-01.30.31:532][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.05-01.30.31:532][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.05-01.30.31:532][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.05-01.30.31:533][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.05-01.30.31:558][216]LogInit: FAudioDevice initialized.
+[2021.04.05-01.30.31:572][216]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.05-01.30.31:574][216]LogWorld: Bringing World /Game/SirGawain/Levels/UEDPIE_0_CityStart.CityStart up for play (max tick rate 60) at 2021.04.04-21.30.31
+[2021.04.05-01.30.31:575][216]LogWorld: Bringing up level for play took: 0.001735
+[2021.04.05-01.30.31:575][216]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.05-01.30.31:578][216]PIE: Server logged in
+[2021.04.05-01.30.31:579][216]PIE: Play in editor total start time 0.162 seconds.
+[2021.04.05-01.30.33:557][321]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.04.05-01.30.37:177][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.30.37:177][525]LogWorld: BeginTearingDown for /Game/SirGawain/Levels/UEDPIE_0_CityStart
+[2021.04.05-01.30.37:177][525]LogWorld: UWorld::CleanupWorld for CityStart, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.30.37:177][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.30.37:189][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.05-01.30.37:194][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.30.37:256][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.05-01.30.37:257][525]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218012E8680), frame # 183525
+[2021.04.05-01.30.37:257][525]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002192C7AE000), frame # 183525
+[2021.04.05-01.30.37:260][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.04.05-01.30.37:305][526]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.05-01.32.49:015][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.04.05-01.32.49:089][330]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStartB9FBF69D458E497F45B4CBB0FCCAE5A4.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.32.49:120][330]LogFileHelpers: Saving map 'CityStart' took 0.153
+[2021.04.05-01.32.49:141][330]AssetCheck: New page: Asset Save: CityStart
+[2021.04.05-01.32.49:141][330]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.32.49:884][354]BlueprintLog: New page: Compile CityStart
+[2021.04.05-01.32.49:961][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.04.05-01.32.51:332][399]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.32.51:332][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.32.53:217][450]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/FirstTextWidgetD592FC684A4D480E25697A9527EA0DD8.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Blueprints/FirstTextWidget.uasset'
+[2021.04.05-01.32.53:240][450]AssetCheck: New page: Asset Save: FirstTextWidget
+[2021.04.05-01.32.53:240][450]LogContentValidation: Display: Validating WidgetBlueprint /Game/SirGawain/Blueprints/FirstTextWidget.FirstTextWidget
+[2021.04.05-01.32.55:071][511]LogSlate: Window 'FirstTextWidget' being destroyed
+[2021.04.05-01.32.55:086][511]LogSlate: Window 'FirstTextWidget' being destroyed
+[2021.04.05-01.32.55:123][511]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.32.55:123][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.32.55:130][511]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-01.32.55:130][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-01.32.58:411][698]MapCheck: New page: Map Check
+[2021.04.05-01.32.58:441][698]LightingResults: New page: Lighting Build - Apr 4, 2021, 5:32:58 PM
+[2021.04.05-01.32.58:465][698]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.05-01.32.58:477][698]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.05-01.32.58:477][698]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.05-01.32.58:480][698]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.05-01.32.58:480][698]LogSwarmInterface: [TryOpenConnection] Local Process ID is 57540
+[2021.04.05-01.33.00:521][698]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.05-01.33.00:521][698]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.05-01.33.00:521][698]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.05-01.33.00:521][698]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.05-01.33.00:521][698]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.05-01.33.00:689][698]LogEditorBuildUtils: Build time 0:02
+[2021.04.05-01.33.00:756][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.05-01.33.36:752][329]Job is a success!
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.053s
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:          1: 8.9% covering 6.2% of volume
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.05-01.33.36:980][330]LogVolumetricLightmapImport:          CityStart 			 45 bricks 	 100.0% (Persistent Level)
+[2021.04.05-01.33.38:143][330]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.04.05-01.33.38:143][330]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.04.05-01.33.38:143][330]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.04.05-01.33.38:143][330]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2021.04.05-01.33.38:143][330]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.04.05-01.33.38:143][330]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.04.05-01.33.38:344][330]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2021.04.05-01.33.38:344][330]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X64)
+[2021.04.05-01.33.38:562][330]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2021.04.05-01.33.38:572][330]LogStaticLightingSystem: CityStart_BuiltData storing lightmap data for 8 meshes in 4 LightmapResourceClusters (2.0 Meshes per cluster).
+[2021.04.05-01.33.38:604][330]Lightmass on KATXPS15: 36.5 sec total, 356 ms importing, 69 ms setup, 8.88 sec photons, 27.0 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 3:09 min total, 26.3 sec processing.
+[2021.04.05-01.33.38:611][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.04.05-01.33.38:637][330]LogStaticLightingSystem: Illumination: 40.1 sec (1.08 sec encoding lightmaps, 417 ms encoding shadowmaps)
+[2021.04.05-01.33.38:638][330]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.04.05-01.33.38:638][330]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2021.04.05-01.33.39:563][330]DumpUnbuiltLightIteractions
+[2021.04.05-01.33.39:563][330]Lights with unbuilt interactions: 0
+[2021.04.05-01.33.39:563][330]
+[2021.04.05-01.33.39:563][330]Primitives with unbuilt interactions: 0
+[2021.04.05-01.33.39:670][331]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.05-01.33.39:670][331]MapCheck: New page: CityStart - Apr 4, 2021, 5:33:39 PM
+[2021.04.05-01.33.39:670][331]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.459ms to complete.
+[2021.04.05-01.33.41:541][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.05-01.33.41:608][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.05-01.33.41:671][440]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStartAE95D6554C9EF3630216CF8AED877143.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart.umap'
+[2021.04.05-01.33.41:703][440]LogFileHelpers: Saving map 'CityStart' took 0.131
+[2021.04.05-01.33.41:992][440]LogSavePackage: Moving '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Saved/CityStart_BuiltData6ED4AAA349F318DD7BEB07BE678E2D21.tmp' to '../../../../../../Users/pangu/Documents/GitHub/fnrt329/SirGawain/Content/SirGawain/Levels/CityStart_BuiltData.uasset'
+[2021.04.05-01.33.42:023][440]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.05-01.33.42:023][440]LogContentValidation: Display: Validating World /Game/SirGawain/Levels/CityStart.CityStart
+[2021.04.05-01.33.42:023][440]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SirGawain/Levels/CityStart_BuiltData.CityStart_BuiltData
