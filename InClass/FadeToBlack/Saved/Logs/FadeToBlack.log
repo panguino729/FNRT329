@@ -1,0 +1,929 @@
+﻿Log file open, 04/28/21 13:57:24
+LogInit: Display: Running engine for game: FadeToBlack
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182325
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1709) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Unreal 4.25/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.28-17.57.24:334][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.28-17.57.24:334][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.28-17.57.24:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.28-17.57.24:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:335][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:337][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.28-17.57.24:337][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.28-17.57.24:338][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.28-17.57.24:338][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.28-17.57.24:338][  0]LogHAL: Display: Platform has ~ 16 GB [16973492224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.28-17.57.24:338][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.28-17.57.24:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Scalability.ini]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.28-17.57.24:339][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.28-17.57.24:340][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.28-17.57.24:340][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.28-17.57.24:340][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.28-17.57.24:340][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Config/Windows/Engine.ini]
+[2021.04.28-17.57.24:340][  0]LogInit: Computer: SAU-A402-14
+[2021.04.28-17.57.24:340][  0]LogInit: User: kft3635
+[2021.04.28-17.57.24:340][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.28-17.57.24:340][  0]LogInit: High frequency timer resolution =3.117186 MHz
+[2021.04.28-17.57.24:340][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.28-17.57.24:340][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.28-17.57.24:340][  0]LogMemory: Process Physical Memory: 120.50 MB used, 120.50 MB peak
+[2021.04.28-17.57.24:340][  0]LogMemory: Process Virtual Memory: 99.99 MB used, 99.99 MB peak
+[2021.04.28-17.57.24:340][  0]LogMemory: Physical Memory: 9518.94 MB used,  6668.25 MB free, 16187.18 MB total
+[2021.04.28-17.57.24:340][  0]LogMemory: Virtual Memory: 1084.82 MB used,  134216640.00 MB free, 134217728.00 MB total
+[2021.04.28-17.57.24:347][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.28-17.57.24:393][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.28-17.57.24:394][  0]LogInit: Using OS detected language (en-US).
+[2021.04.28-17.57.24:394][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.28-17.57.24:399][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.28-17.57.24:544][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.28-17.57.24:568][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.28-17.57.24:568][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.28-17.57.24:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.28-17.57.24:781][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.28-17.57.24:781][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.28-17.57.24:781][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.28-17.57.24:836][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.04.28-17.57.24:836][  0]LogD3D11RHI:       4019/0/8093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.28-17.57.24:853][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.04.28-17.57.24:853][  0]LogD3D11RHI:       128/0/8093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.28-17.57.24:856][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.28-17.57.24:856][  0]LogD3D11RHI:       0/0/8093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.28-17.57.24:856][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.28-17.57.24:864][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.28-17.57.24:864][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.04.28-17.57.24:864][  0]LogWindows: EnumDisplayDevices:
+[2021.04.28-17.57.24:864][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.04.28-17.57.24:865][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.28-17.57.24:865][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.28-17.57.24:865][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.04.28-17.57.24:865][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.04.28-17.57.24:865][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.04.28-17.57.24:865][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2021.04.28-17.57.24:865][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2021.04.28-17.57.24:865][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2021.04.28-17.57.24:899][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.28-17.57.24:899][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.28-17.57.24:899][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.28-17.57.24:918][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.04.28-17.57.25:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.28-17.57.25:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.28-17.57.25:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.28-17.57.25:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.28-17.57.25:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.28-17.57.25:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.28-17.57.25:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.28-17.57.25:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.28-17.57.25:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.28-17.57.25:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.28-17.57.25:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.28-17.57.25:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.28-17.57.25:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.28-17.57.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.28-17.57.25:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.28-17.57.25:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.28-17.57.25:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.28-17.57.25:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.28-17.57.25:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.28-17.57.25:369][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.28-17.57.25:379][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.28-17.57.25:445][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Intermediate/Shaders/WorkingDirectory/10380/).
+[2021.04.28-17.57.25:445][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kft3635/AppData/Local/Temp/UnrealShaderWorkingDir/64E1241D4CAC2FF03445C4A4EFD75ACA/'.
+[2021.04.28-17.57.25:446][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.28-17.57.25:446][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.28-17.57.25:446][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.28-17.57.26:099][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.28-17.57.26:141][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/kft3635/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.28-17.57.26:141][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kft3635/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.28-17.57.26:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.28-17.57.26:141][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.28-17.57.26:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.28-17.57.26:142][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.28-17.57.26:150][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.28-17.57.26:150][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.28-17.57.26:150][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.28-17.57.26:151][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kft3635/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.28-17.57.26:151][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.28-17.57.26:151][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.28-17.57.26:192][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.28-17.57.26:193][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.28-17.57.26:217][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.04.28-17.57.26:389][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.28-17.57.26:492][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.28-17.57.26:492][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.28-17.57.26:492][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.28-17.57.26:492][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.28-17.57.26:492][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.28-17.57.26:506][  0]LogNetVersion: FadeToBlack 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1302881820)
+[2021.04.28-17.57.26:883][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002788C314340), frame # 0
+[2021.04.28-17.57.26:883][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002788C240400), frame # 0
+[2021.04.28-17.57.26:884][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002788C256000), frame # 0
+[2021.04.28-17.57.26:917][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.025829 seconds
+[2021.04.28-17.57.26:921][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.28-17.57.26:921][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.28-17.57.26:921][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.28-17.57.27:272][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.28-17.57.27:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.28-17.57.27:379][  0]SourceControl: Source control is disabled
+[2021.04.28-17.57.27:379][  0]SourceControl: Source control is disabled
+[2021.04.28-17.57.27:383][  0]SourceControl: Source control is disabled
+[2021.04.28-17.57.27:386][  0]SourceControl: Source control is disabled
+[2021.04.28-17.57.27:395][  0]SourceControl: Source control is disabled
+[2021.04.28-17.57.27:665][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.28-17.57.27:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.28-17.57.27:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.28-17.57.27:739][  0]LogOcInput: OculusInput pre-init called
+[2021.04.28-17.57.27:750][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.28-17.57.27:750][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.28-17.57.27:808][  0]LogEngine: Initializing Engine...
+[2021.04.28-17.57.27:810][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.28-17.57.27:810][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.28-17.57.27:811][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.28-17.57.27:909][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.28-17.57.27:918][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.28-17.57.27:918][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027893D63C00), frame # 0
+[2021.04.28-17.57.27:918][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027893E1DF80), frame # 0
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-17.57.27:971][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-17.57.27:971][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-17.57.27:971][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-17.57.27:985][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-17.57.27:985][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-17.57.28:072][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.04.28-17.57.28:077][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-17.57.28:079][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-17.57.28:080][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-17.57.28:080][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-17.57.28:081][  0]LogInit: FAudioDevice initialized.
+[2021.04.28-17.57.28:081][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.28-17.57.28:129][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/kft3635/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.28-17.57.28:130][  0]LogInit: Texture streaming: Enabled
+[2021.04.28-17.57.28:150][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.28-17.57.28:150][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.28-17.57.28:151][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.28-17.57.28:173][  0]LogInit: Transaction tracking system initialized
+[2021.04.28-17.57.28:201][  0]BlueprintLog: New page: Editor Load
+[2021.04.28-17.57.28:322][  0]LocalizationService: Localization service is disabled
+[2021.04.28-17.57.28:514][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.28-17.57.28:514][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.28-17.57.28:675][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/' took 0.01s
+[2021.04.28-17.57.28:857][  0]SourceControl: Source control is disabled
+[2021.04.28-17.57.28:857][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.320
+[2021.04.28-17.57.28:862][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Unreal 4.25/UE_4.25/FeaturePacks/StarterContent.upack)
+[2021.04.28-17.57.28:875][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.04.28-17.57.28:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.04.28-17.57.28:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.04.28-17.57.28:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.04.28-17.57.28:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.04.28-17.57.28:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.04.28-17.57.28:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.04.28-17.57.28:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.04.28-17.57.28:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.04.28-17.57.28:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.04.28-17.57.28:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.04.28-17.57.28:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.04.28-17.57.28:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.04.28-17.57.28:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.04.28-17.57.28:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.04.28-17.57.28:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.04.28-17.57.28:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.04.28-17.57.28:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.04.28-17.57.28:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Fire01.uasset"
+[2021.04.28-17.57.28:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.04.28-17.57.28:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.04.28-17.57.28:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.04.28-17.57.28:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Light01.uasset"
+[2021.04.28-17.57.28:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.04.28-17.57.28:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Light02.uasset"
+[2021.04.28-17.57.28:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.04.28-17.57.28:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.04.28-17.57.28:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.04.28-17.57.28:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.04.28-17.57.28:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.04.28-17.57.28:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.04.28-17.57.28:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.04.28-17.57.28:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.04.28-17.57.28:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.04.28-17.57.28:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Steam01.uasset"
+[2021.04.28-17.57.28:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.04.28-17.57.28:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.04.28-17.57.28:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.04.28-17.57.28:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.04.28-17.57.28:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.04.28-17.57.28:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.04.28-17.57.28:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.04.28-17.57.28:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.04.28-17.57.28:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.04.28-17.57.28:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.04.28-17.57.28:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.04.28-17.57.28:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.04.28-17.57.28:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.04.28-17.57.28:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.04.28-17.57.28:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.04.28-17.57.28:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.04.28-17.57.28:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.04.28-17.57.29:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.04.28-17.57.29:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.04.28-17.57.29:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.04.28-17.57.29:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.04.28-17.57.29:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.04.28-17.57.29:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Maps/StarterMap.umap"
+[2021.04.28-17.57.29:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.04.28-17.57.29:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.04.28-17.57.29:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.04.28-17.57.29:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.04.28-17.57.29:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.04.28-17.57.29:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.04.28-17.57.29:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.04.28-17.57.29:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.04.28-17.57.29:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.04.28-17.57.29:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.04.28-17.57.29:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.04.28-17.57.29:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.04.28-17.57.29:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.04.28-17.57.29:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.04.28-17.57.29:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.04.28-17.57.29:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.04.28-17.57.29:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.04.28-17.57.29:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.04.28-17.57.29:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.04.28-17.57.29:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.04.28-17.57.29:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.04.28-17.57.29:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.04.28-17.57.29:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.04.28-17.57.29:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.04.28-17.57.29:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.04.28-17.57.29:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.04.28-17.57.29:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.04.28-17.57.29:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.04.28-17.57.29:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.04.28-17.57.29:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.04.28-17.57.29:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.04.28-17.57.29:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.04.28-17.57.29:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.04.28-17.57.29:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.04.28-17.57.29:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.04.28-17.57.29:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.04.28-17.57.29:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.04.28-17.57.29:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.04.28-17.57.29:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.04.28-17.57.29:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.04.28-17.57.29:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.04.28-17.57.29:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.04.28-17.57.29:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.04.28-17.57.29:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.04.28-17.57.29:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.04.28-17.57.29:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.04.28-17.57.29:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.04.28-17.57.29:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.04.28-17.57.29:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.04.28-17.57.29:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.04.28-17.57.29:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.04.28-17.57.29:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.04.28-17.57.29:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.04.28-17.57.29:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.04.28-17.57.29:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.04.28-17.57.29:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.04.28-17.57.29:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.04.28-17.57.29:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.04.28-17.57.29:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.04.28-17.57.29:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.04.28-17.57.29:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.04.28-17.57.29:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.04.28-17.57.29:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.04.28-17.57.29:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.04.28-17.57.29:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.04.28-17.57.29:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Door.uasset"
+[2021.04.28-17.57.29:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.04.28-17.57.29:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.04.28-17.57.29:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.04.28-17.57.29:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.04.28-17.57.29:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.04.28-17.57.29:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.04.28-17.57.29:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.04.28-17.57.29:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.04.28-17.57.29:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.04.28-17.57.29:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.04.28-17.57.29:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.04.28-17.57.29:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.04.28-17.57.29:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.04.28-17.57.29:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.04.28-17.57.29:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.04.28-17.57.29:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.04.28-17.57.29:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.04.28-17.57.29:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.04.28-17.57.29:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.04.28-17.57.29:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.04.28-17.57.29:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.04.28-17.57.29:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.04.28-17.57.29:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.04.28-17.57.29:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.04.28-17.57.29:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.04.28-17.57.29:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.04.28-17.57.29:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.04.28-17.57.29:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.04.28-17.57.29:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.04.28-17.57.29:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.04.28-17.57.29:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.04.28-17.57.29:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.04.28-17.57.29:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.04.28-17.57.29:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.04.28-17.57.29:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.04.28-17.57.29:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.04.28-17.57.29:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.04.28-17.57.29:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.04.28-17.57.29:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.04.28-17.57.29:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.04.28-17.57.29:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.04.28-17.57.29:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.04.28-17.57.29:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.04.28-17.57.29:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.04.28-17.57.29:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.04.28-17.57.29:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.04.28-17.57.29:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.04.28-17.57.29:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.04.28-17.57.29:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.04.28-17.57.29:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.04.28-17.57.29:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.04.28-17.57.29:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.04.28-17.57.29:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.04.28-17.57.29:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.04.28-17.57.29:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.04.28-17.57.29:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.04.28-17.57.29:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.04.28-17.57.29:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.04.28-17.57.29:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.04.28-17.57.29:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.04.28-17.57.29:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.04.28-17.57.29:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.04.28-17.57.29:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.04.28-17.57.29:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.04.28-17.57.29:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.04.28-17.57.29:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.04.28-17.57.29:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.04.28-17.57.29:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.04.28-17.57.29:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.04.28-17.57.29:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.04.28-17.57.29:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.04.28-17.57.29:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.04.28-17.57.29:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.04.28-17.57.29:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.04.28-17.57.29:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.04.28-17.57.29:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.04.28-17.57.29:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.04.28-17.57.29:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.04.28-17.57.29:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.04.28-17.57.29:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.04.28-17.57.29:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.04.28-17.57.29:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.04.28-17.57.29:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.04.28-17.57.29:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.04.28-17.57.29:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.04.28-17.57.29:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.04.28-17.57.29:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.04.28-17.57.29:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.04.28-17.57.29:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.04.28-17.57.29:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.04.28-17.57.29:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.04.28-17.57.29:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.04.28-17.57.29:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.04.28-17.57.29:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.04.28-17.57.29:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.04.28-17.57.29:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.04.28-17.57.29:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.04.28-17.57.29:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.04.28-17.57.29:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.04.28-17.57.29:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.04.28-17.57.29:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.04.28-17.57.29:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.04.28-17.57.29:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.04.28-17.57.29:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.04.28-17.57.29:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.04.28-17.57.29:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.04.28-17.57.29:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.04.28-17.57.29:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.04.28-17.57.29:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.04.28-17.57.29:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.04.28-17.57.29:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.04.28-17.57.29:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.04.28-17.57.29:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.04.28-17.57.29:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.04.28-17.57.29:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.04.28-17.57.29:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.04.28-17.57.29:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.04.28-17.57.29:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.04.28-17.57.29:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.04.28-17.57.29:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.04.28-17.57.29:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.04.28-17.57.29:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.04.28-17.57.29:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.04.28-17.57.29:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.04.28-17.57.29:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.04.28-17.57.29:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.04.28-17.57.29:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.04.28-17.57.29:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.04.28-17.57.29:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.04.28-17.57.29:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.04.28-17.57.29:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.04.28-17.57.29:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.04.28-17.57.29:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.04.28-17.57.29:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.04.28-17.57.29:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.04.28-17.57.29:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.04.28-17.57.29:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.04.28-17.57.29:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.04.28-17.57.29:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.04.28-17.57.29:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.04.28-17.57.29:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.04.28-17.57.29:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.04.28-17.57.29:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.04.28-17.57.29:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.04.28-17.57.29:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.04.28-17.57.29:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.04.28-17.57.29:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.04.28-17.57.29:932][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.04.28-17.57.30:355][  0]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Floor_400x400F6C690524CD764CE9D15B59848F15E28.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.04.28-17.57.30:375][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.04.28-17.57.30:375][  0]Cmd: MAP LOAD FILE="../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.28-17.57.30:376][  0]LightingResults: New page: Lighting Build
+[2021.04.28-17.57.30:377][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-17.57.30:377][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-17.57.30:377][  0]MapCheck: New page: Map Check
+[2021.04.28-17.57.30:377][  0]LightingResults: New page: Lighting Build
+[2021.04.28-17.57.30:386][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027893D63C00), frame # 0
+[2021.04.28-17.57.30:386][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027893E1DF80), frame # 0
+[2021.04.28-17.57.30:386][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.28-17.57.30:971][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.28-17.57.30:971][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027883307E00), frame # 0
+[2021.04.28-17.57.30:971][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027883655BC0), frame # 0
+[2021.04.28-17.57.31:133][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.28-17.57.31:144][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.28-17.57.31:144][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.28-17.57.31:144][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.04.28-17.57.31:145][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.769
+[2021.04.28-17.57.31:148][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.611
+[2021.04.28-17.57.31:216][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.28-17.57.31:216][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.28-17.57.31:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-17.57.31:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-17.57.31:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-17.57.31:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-17.57.32:071][  0]LogCollectionManager: Loaded 0 collections in 0.001319 seconds
+[2021.04.28-17.57.32:231][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/Collections/' took 0.00s
+[2021.04.28-17.57.32:231][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/Developers/kft3635/Collections/' took 0.00s
+[2021.04.28-17.57.32:231][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/Collections/' took 0.00s
+[2021.04.28-17.57.32:231][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 3427 classes and 821 folders.
+[2021.04.28-17.57.32:257][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.28-17.57.32:343][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.28-17.57.32:434][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.28-17.57.32:440][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.28-17.57.32:464][  0]LogSlate: Took 0.005737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.28-17.57.32:593][  0]LogRenderer: Reallocating scene render targets to support 860x660 Format 10 NumSamples 1 (Frame:1).
+[2021.04.28-17.57.32:720][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.28-17.57.32:785][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.28-17.57.32:785][  0]LogLoad: (Engine Initialization) Total time: 11.25 seconds
+[2021.04.28-17.57.32:785][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.28-17.57.32:938][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.04.28-17.57.32:938][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.04.28-17.57.32:965][  0]LogAssetRegistry: Asset discovery search completed in 6.7491 seconds
+[2021.04.28-17.57.32:968][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.04.28-17.57.32:971][  0]LogContentStreaming: Texture pool size now 1000 MB
