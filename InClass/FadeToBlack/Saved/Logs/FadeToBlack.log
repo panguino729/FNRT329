@@ -927,3 +927,290 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-17.57.32:965][  0]LogAssetRegistry: Asset discovery search completed in 6.7491 seconds
 [2021.04.28-17.57.32:968][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2021.04.28-17.57.32:971][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.28-18.00.09:651][219]LogSlate: Window 'Save Asset As' being destroyed
+[2021.04.28-18.00.39:804][287]LogSlate: Window 'Save Asset As' being destroyed
+[2021.04.28-18.00.39:938][287]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.28-18.00.39:962][287]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/TestLevelSequence.TestLevelSequence
+[2021.04.28-18.00.43:988][685]LogSlate: Window 'Sequencer' being destroyed
+[2021.04.28-18.00.47:770][120]LogRenderer: Reallocating scene render targets to support 1152x660 Format 10 NumSamples 1 (Frame:15045).
+[2021.04.28-18.00.53:929][814]LogRenderer: Reallocating scene render targets to support 1156x660 Format 10 NumSamples 1 (Frame:15543).
+[2021.04.28-18.00.53:961][815]LogRenderer: Reallocating scene render targets to support 1160x660 Format 10 NumSamples 1 (Frame:15545).
+[2021.04.28-18.00.53:984][816]LogRenderer: Reallocating scene render targets to support 1168x660 Format 10 NumSamples 1 (Frame:15547).
+[2021.04.28-18.00.54:013][817]LogRenderer: Reallocating scene render targets to support 1176x660 Format 10 NumSamples 1 (Frame:15549).
+[2021.04.28-18.00.54:042][818]LogRenderer: Reallocating scene render targets to support 1184x660 Format 10 NumSamples 1 (Frame:15551).
+[2021.04.28-18.00.54:071][819]LogRenderer: Reallocating scene render targets to support 1196x660 Format 10 NumSamples 1 (Frame:15553).
+[2021.04.28-18.00.54:095][820]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:15555).
+[2021.04.28-18.00.54:121][821]LogRenderer: Reallocating scene render targets to support 1220x660 Format 10 NumSamples 1 (Frame:15557).
+[2021.04.28-18.00.54:156][822]LogRenderer: Reallocating scene render targets to support 1228x660 Format 10 NumSamples 1 (Frame:15559).
+[2021.04.28-18.00.54:180][823]LogRenderer: Reallocating scene render targets to support 1240x660 Format 10 NumSamples 1 (Frame:15561).
+[2021.04.28-18.00.54:206][824]LogRenderer: Reallocating scene render targets to support 1244x660 Format 10 NumSamples 1 (Frame:15563).
+[2021.04.28-18.00.54:246][826]LogRenderer: Reallocating scene render targets to support 1248x660 Format 10 NumSamples 1 (Frame:15567).
+[2021.04.28-18.00.54:295][829]LogRenderer: Reallocating scene render targets to support 1252x660 Format 10 NumSamples 1 (Frame:15571).
+[2021.04.28-18.00.54:320][830]LogRenderer: Reallocating scene render targets to support 1256x660 Format 10 NumSamples 1 (Frame:15573).
+[2021.04.28-18.02.46:110][ 68]LogSlate: Took 0.000677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.28-18.03.19:579][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevelSequence" FILE="../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/TestLevelSequence.uasset" SILENT=true
+[2021.04.28-18.03.19:583][  5]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/TestLevelSequence3DCB72BC40634BF0FAAD37A774FDC8FF.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/TestLevelSequence.uasset'
+[2021.04.28-18.03.19:593][  5]AssetCheck: New page: Asset Save: TestLevelSequence
+[2021.04.28-18.03.19:593][  5]LogContentValidation: Display: Validating LevelSequence /Game/TestLevelSequence.TestLevelSequence
+[2021.04.28-18.03.27:992][988]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-18.03.28:000][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-18.03.28:005][988]PIE: New page: PIE session: FirstPersonExampleMap (Apr 28, 2021, 10:03:28 AM)
+[2021.04.28-18.03.28:007][988]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.28-18.03.28:008][988]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.28-18.03.28:010][988]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.03.28:026][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016323s)
+[2021.04.28-18.03.28:027][988]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.28-18.03.28:027][988]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000278C12C8600), frame # 34988
+[2021.04.28-18.03.28:027][988]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278B382CF40), frame # 34988
+[2021.04.28-18.03.28:028][988]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2021.04.28-18.03.28:028][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017995s)
+[2021.04.28-18.03.28:040][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-18.03.28:044][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-18.03.28:044][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-18.03.28:045][988]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-18.03.28:045][988]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-18.03.28:047][988]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-18.03.28:047][988]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-18.03.28:126][988]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.04.28-18.03.28:126][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-18.03.28:126][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-18.03.28:126][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-18.03.28:126][988]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-18.03.28:135][988]LogInit: FAudioDevice initialized.
+[2021.04.28-18.03.28:150][988]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-18.03.28:161][988]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.28-14.03.28
+[2021.04.28-18.03.28:163][988]LogWorld: Bringing up level for play took: 0.003543
+[2021.04.28-18.03.28:165][988]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.04.28-18.03.28:191][988]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.28-18.03.28:195][988]PIE: Server logged in
+[2021.04.28-18.03.28:197][988]PIE: Play in editor total start time 0.202 seconds.
+[2021.04.28-18.03.37:862][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.03.37:862][104]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.03.37:862][104]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-18.03.37:863][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.03.37:867][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-18.03.37:869][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.03.37:893][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.03.37:894][104]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278B382CF40), frame # 36104
+[2021.04.28-18.03.37:894][104]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000278C12C8600), frame # 36104
+[2021.04.28-18.03.37:895][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.28-18.03.37:937][108]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.04.28-18.04.46:892][156]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2021.04.28-18.04.47:145][156]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 125 classes and 0 folders.
+[2021.04.28-18.04.47:878][156]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.28-18.04.50:890][431]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2021.04.28-18.05.27:395][617]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.05.27:430][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.28-18.05.52:264][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.28-18.05.52:296][581]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap264A93C4451F540C420359A9BEDCC437.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.05.53:017][581]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap_BuiltData4D62C6724B192BF11537ECB702B22E6D.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.28-18.05.53:065][581]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-18.05.53:065][581]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.05.53:065][581]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.04.28-18.06.35:947][634]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.06.35:974][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.28-18.06.37:943][849]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-18.06.37:948][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-18.06.37:948][849]PIE: New page: PIE session: FirstPersonExampleMap (Apr 28, 2021, 10:06:37 AM)
+[2021.04.28-18.06.37:976][849]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.06.37:986][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010135s)
+[2021.04.28-18.06.37:986][849]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.28-18.06.37:987][849]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002792A70A600), frame # 56849
+[2021.04.28-18.06.37:987][849]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000278BF7CC2C0), frame # 56849
+[2021.04.28-18.06.37:987][849]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2021.04.28-18.06.37:987][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011269s)
+[2021.04.28-18.06.38:004][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-18.06.38:006][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-18.06.38:006][849]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-18.06.38:006][849]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-18.06.38:009][849]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-18.06.38:009][849]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-18.06.38:085][849]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.04.28-18.06.38:085][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-18.06.38:085][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-18.06.38:085][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-18.06.38:085][849]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-18.06.38:095][849]LogInit: FAudioDevice initialized.
+[2021.04.28-18.06.38:104][849]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-18.06.38:106][849]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.28-14.06.38
+[2021.04.28-18.06.38:106][849]LogWorld: Bringing up level for play took: 0.001417
+[2021.04.28-18.06.38:106][849]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.04.28-18.06.38:110][849]PIE: Server logged in
+[2021.04.28-18.06.38:110][849]PIE: Play in editor total start time 0.163 seconds.
+[2021.04.28-18.06.46:093][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.06.46:093][776]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.06.46:093][776]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-18.06.46:093][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.06.46:098][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-18.06.46:101][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.06.46:115][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.06.46:129][776]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000278BF7CC2C0), frame # 57776
+[2021.04.28-18.06.46:129][776]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002792A70A600), frame # 57776
+[2021.04.28-18.06.46:131][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.28-18.06.46:156][778]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.04.28-18.06.50:885][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.28-18.06.50:910][324]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMapD9A04E2E4CD7A6D2383D318ACD249898.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.06.50:976][324]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.108
+[2021.04.28-18.06.50:994][324]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.04.28-18.06.50:994][324]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.07.31:863][100]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.07.31:889][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.04.28-18.07.34:098][354]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-18.07.34:102][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-18.07.34:102][354]PIE: New page: PIE session: FirstPersonExampleMap (Apr 28, 2021, 10:07:34 AM)
+[2021.04.28-18.07.34:133][354]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.07.34:143][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010086s)
+[2021.04.28-18.07.34:144][354]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.28-18.07.34:144][354]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027919414A00), frame # 63354
+[2021.04.28-18.07.34:144][354]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002792A8FBD80), frame # 63354
+[2021.04.28-18.07.34:144][354]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2021.04.28-18.07.34:144][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011177s)
+[2021.04.28-18.07.34:162][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-18.07.34:163][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-18.07.34:163][354]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-18.07.34:163][354]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-18.07.34:165][354]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-18.07.34:165][354]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-18.07.34:241][354]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.04.28-18.07.34:241][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-18.07.34:241][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-18.07.34:241][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-18.07.34:242][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-18.07.34:251][354]LogInit: FAudioDevice initialized.
+[2021.04.28-18.07.34:261][354]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-18.07.34:263][354]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.28-14.07.34
+[2021.04.28-18.07.34:264][354]LogWorld: Bringing up level for play took: 0.001294
+[2021.04.28-18.07.34:264][354]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.04.28-18.07.34:265][354]PIE: Server logged in
+[2021.04.28-18.07.34:266][354]PIE: Play in editor total start time 0.164 seconds.
+[2021.04.28-18.07.38:725][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.07.38:725][863]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.07.38:725][863]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-18.07.38:726][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.07.38:733][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-18.07.38:735][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.07.38:767][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.07.38:769][863]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002792A8FBD80), frame # 63863
+[2021.04.28-18.07.38:769][863]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027919414A00), frame # 63863
+[2021.04.28-18.07.38:769][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.28-18.07.38:796][865]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.04.28-18.07.40:435][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.28-18.07.40:456][ 28]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMapE97CE6874D6615B5ABD9E9AAB2DA9A42.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.07.40:520][ 28]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.102
+[2021.04.28-18.07.40:530][ 28]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.04.28-18.07.40:530][ 28]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.07.41:688][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.04.28-18.07.41:709][158]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap4301582547F047500AC3709F99FAAC46.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.07.42:130][158]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap_BuiltData5E6340D143A7E2532903E4876C105EFC.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.28-18.07.42:144][158]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-18.07.42:144][158]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.07.42:144][158]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.04.28-18.09.41:992][468]LogEditorTransaction: Undo Move Node
+[2021.04.28-18.09.42:946][536]LogEditorTransaction: Undo Move Node
+[2021.04.28-18.09.43:546][608]LogEditorTransaction: Undo Create Reroute Node
+[2021.04.28-18.10.01:796][783]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.10.01:822][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.28-18.10.03:584][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.04.28-18.10.03:605][988]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap7A9B316F4BFCB3387ACAC598FEE0E9ED.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.10.03:670][988]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.107
+[2021.04.28-18.10.03:681][988]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.04.28-18.10.03:681][988]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.10.24:468][429]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.10.24:495][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.28-18.10.25:219][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.28-18.10.25:239][509]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMapE4F3424247D9B4366E45BA855C529376.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.10.25:303][509]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.103
+[2021.04.28-18.10.25:314][509]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.04.28-18.10.25:314][509]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.12.03:766][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.28-18.12.03:796][259]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap04CF77704A932DB63E833C993B6E7C06.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.12.04:227][259]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap_BuiltData6CE5981846ED09BD5C5595BA5D1D9A0B.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.28-18.12.04:242][259]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-18.12.04:242][259]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.12.04:242][259]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.04.28-18.13.15:475][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.04.28-18.13.15:498][507]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMapF891208A4D2F9164EDFD92B57BAD9D62.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.13.15:562][507]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.107
+[2021.04.28-18.13.15:574][507]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.04.28-18.13.15:574][507]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.13.16:250][582]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.13.16:275][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.28-18.13.17:653][740]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-18.13.17:657][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-18.13.17:657][740]PIE: New page: PIE session: FirstPersonExampleMap (Apr 28, 2021, 10:13:17 AM)
+[2021.04.28-18.13.17:657][740]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.13.17:667][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009944s)
+[2021.04.28-18.13.17:668][740]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.28-18.13.17:668][740]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027931D50800), frame # 103740
+[2021.04.28-18.13.17:668][740]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027926762AC0), frame # 103740
+[2021.04.28-18.13.17:669][740]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2021.04.28-18.13.17:669][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011348s)
+[2021.04.28-18.13.17:686][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-18.13.17:687][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-18.13.17:687][740]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-18.13.17:687][740]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-18.13.17:690][740]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-18.13.17:690][740]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-18.13.17:767][740]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.04.28-18.13.17:767][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-18.13.17:768][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-18.13.17:768][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-18.13.17:768][740]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-18.13.17:777][740]LogInit: FAudioDevice initialized.
+[2021.04.28-18.13.17:786][740]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.28-18.13.17:789][740]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.28-14.13.17
+[2021.04.28-18.13.17:789][740]LogWorld: Bringing up level for play took: 0.001456
+[2021.04.28-18.13.17:789][740]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.04.28-18.13.17:792][740]PIE: Server logged in
+[2021.04.28-18.13.17:793][740]PIE: Play in editor total start time 0.136 seconds.
+[2021.04.28-18.13.26:146][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.13.26:146][707]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.28-18.13.26:146][707]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-18.13.26:146][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.13.26:152][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-18.13.26:154][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-18.13.26:184][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-18.13.26:184][707]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027926762AC0), frame # 104707
+[2021.04.28-18.13.26:184][707]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027931D50800), frame # 104707
+[2021.04.28-18.13.26:186][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.28-18.13.26:230][709]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.04.28-18.14.12:080][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.28-18.14.12:103][183]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMapEDDB12DC44C53A95E69F52803B1F6215.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.14.12:167][183]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.105
+[2021.04.28-18.14.12:178][183]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.04.28-18.14.12:178][183]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.14.13:108][290]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.04.28-18.14.13:133][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.04.28-18.14.14:900][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.28-18.14.14:922][492]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMapF1BDCE3949A7401E2CD23791DAECB33E.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.28-18.14.15:347][492]LogSavePackage: Moving '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Saved/FirstPersonExampleMap_BuiltData45836B804747177A057D349ADC3808B3.tmp' to '../../../../../Users/kft3635/Documents/GitHub/fnrt329/InClass/FadeToBlack/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.28-18.14.15:359][492]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-18.14.15:359][492]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.28-18.14.15:359][492]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
